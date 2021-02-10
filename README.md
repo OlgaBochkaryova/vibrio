@@ -5,14 +5,14 @@ reconstruction of orthologs evolution.
 
 The project was performed by Kristina Perevoshchikova and Olga Bochkareva
 
-Folder Replicons:
+## Folder Replicons:
  - Strains Table holds strains' IDs and names, chromosomes size, number of CDs
  - ChromosomesMapping.csv holds origin|terminus positions, replichores lengths, GC content
 
 
-Folder Phylogenetics:
+## Folder Phylogenetics:
  - 
 
 
-Folder Orthologs:
+## Folder Orthologs:
  - 

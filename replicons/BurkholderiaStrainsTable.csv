@@ -1,0 +1,698 @@
+conf	sequences.id	strain_name	sequence_length	features_number	chromosome	species	file
+2	NZ_CP007802.1	Burkholderia mallei NCTC 10247 chromosome 1 complete sequence	3476239	3438	1	mallei	GCF_000762285.1_ASM76228v1
+2	NZ_CP007801.1	Burkholderia mallei NCTC 10247 chromosome 2 complete sequence	2351417	2261	2	mallei	GCF_000762285.1_ASM76228v1
+2	NZ_CP009538.1	Burkholderia pseudomallei K96243 chromosome I complete sequence	4074547	4007	1	pseudomallei	GCF_000959285.1_ASM95928v1
+2	NZ_CP009537.1	Burkholderia pseudomallei K96243 chromosome II complete sequence	3173067	3010	2	pseudomallei	GCF_000959285.1_ASM95928v1
+2	NZ_CP009731.1	Burkholderia mallei strain Turkey4 chromosome 1 complete sequence	3625848	3571	1	mallei	GCF_002346085.1_ASM234608v1
+2	NZ_CP009732.1	Burkholderia mallei strain Turkey4 chromosome 2 complete sequence	2106749	2093	2	mallei	GCF_002346085.1_ASM234608v1
+2	NZ_CP004089.1	Burkholderia thailandensis H0587 chromosome 1 complete sequence	3827433	3441	1	thailandensis	GCF_000567905.1_ASM56790v1
+2	NZ_CP004090.1	Burkholderia thailandensis H0587 chromosome 2 complete sequence	2940942	2449	2	thailandensis	GCF_000567905.1_ASM56790v1
+2	NZ_CP018406.1	Burkholderia pseudomallei strain 2013833055 chromosome 1 complete sequence	4077823	3930	1	pseudomallei	GCF_002111025.1_ASM211102v1
+2	NZ_CP018407.1	Burkholderia pseudomallei strain 2013833055 chromosome 2 complete sequence	3266006	3035	2	pseudomallei	GCF_002111025.1_ASM211102v1
+2	NZ_CP008914.2	Burkholderia thailandensis strain 2003015869 chromosome 1 complete sequence	3762666	3417	1	thailandensis	GCF_000808035.2_ASM80803v2
+2	NZ_CP008915.2	Burkholderia thailandensis strain 2003015869 chromosome 2 complete sequence	2966450	2482	2	thailandensis	GCF_000808035.2_ASM80803v2
+2	NZ_CP008780.1	Burkholderia pseudomallei strain MSHR1655 chromosome 1 complete sequence	4019546	3903	1	pseudomallei	GCF_000756165.1_ASM75616v1
+2	NZ_CP008779.1	Burkholderia pseudomallei strain MSHR1655 chromosome 2 complete sequence	3008404	2849	2	pseudomallei	GCF_000756165.1_ASM75616v1
+2	NZ_CP037976.1	Burkholderia pseudomallei strain BPs112 chromosome 1 complete sequence	3847660	3749	1	pseudomallei	GCF_004367705.1_ASM436770v1
+2	NZ_CP037975.1	Burkholderia pseudomallei strain BPs112 chromosome 2 complete sequence	3097834	2859	2	pseudomallei	GCF_004367705.1_ASM436770v1
+0	NZ_CP011301.1	Burkholderia cepacia strain LO6 complete genome	6419376	5618	-1	cepacia	GCF_000974835.2_ASM97483v2
+2	NZ_CP013389.1	Burkholderia sp. BDU8 chromosome 1 complete sequence	4439942	3918	1	sp.	GCF_001522635.2_ASM152263v2
+2	NZ_CP013388.1	Burkholderia sp. BDU8 chromosome 2 complete sequence	2917588	2416	2	sp.	GCF_001522635.2_ASM152263v2
+2	NZ_CP019042.1	Burkholderia pseudomallei strain 14M0960418 chromosome 1 complete sequence	4091945	3990	1	pseudomallei	GCF_002860065.1_ASM286006v1
+2	NZ_CP019043.1	Burkholderia pseudomallei strain 14M0960418 chromosome 2 complete sequence	3130290	2938	2	pseudomallei	GCF_002860065.1_ASM286006v1
+2	NZ_CP033703.1	Burkholderia pseudomallei strain FDAARGOS_593 chromosome 1 complete sequence	4098323	4067	1	pseudomallei	GCF_003798245.1_ASM379824v1
+2	NZ_CP033704.1	Burkholderia pseudomallei strain FDAARGOS_593 chromosome 2 complete sequence	3157202	2947	2	pseudomallei	GCF_003798245.1_ASM379824v1
+3	NZ_CP013420.1	Burkholderia ubonensis strain MSMB0783 chromosome 1 complete sequence	3268347	2830	1	ubonensis	GCF_001718695.1_ASM171869v1
+3	NZ_CP013422.1	Burkholderia ubonensis strain MSMB0783 chromosome 2 complete sequence	2186651	1781	2	ubonensis	GCF_001718695.1_ASM171869v1
+3	NZ_CP013421.1	Burkholderia ubonensis strain MSMB0783 chromosome 3 complete sequence	1229847	986	3	ubonensis	GCF_001718695.1_ASM171869v1
+3	NZ_CP013366.1	Burkholderia territorii strain RF8-non-BP5 chromosome 1 complete sequence	3421021	3060	1	territorii	GCF_001718335.1_ASM171833v1
+3	NZ_CP013365.1	Burkholderia territorii strain RF8-non-BP5 chromosome 2 complete sequence	2466714	2171	2	territorii	GCF_001718335.1_ASM171833v1
+3	NZ_CP013367.1	Burkholderia territorii strain RF8-non-BP5 chromosome 3 complete sequence	1014635	824	3	territorii	GCF_001718335.1_ASM171833v1
+2	NC_018513.1	Burkholderia cepacia GG4 chromosome 1 complete sequence	3463655	3100	1	cepacia	GCF_000292915.1_ASM29291v1
+2	NC_018514.1	Burkholderia cepacia GG4 chromosome 2 complete sequence	3003666	2649	2	cepacia	GCF_000292915.1_ASM29291v1
+2	NZ_CP016909.1	Burkholderia pseudomallei strain Burk178-Type1 chromosome 1 complete sequence	4054259	3962	1	pseudomallei	GCF_001887555.1_ASM188755v1
+2	NZ_CP016910.1	Burkholderia pseudomallei strain Burk178-Type1 chromosome 2 complete sequence	3236690	2951	2	pseudomallei	GCF_001887555.1_ASM188755v1
+2	NZ_CP009478.1	Burkholderia pseudomallei MSHR2543 chromosome I complete sequence	4240604	4180	1	pseudomallei	GCF_000959225.1_ASM95922v1
+2	NZ_CP009477.1	Burkholderia pseudomallei MSHR2543 chromosome II complete sequence	3205965	2980	2	pseudomallei	GCF_000959225.1_ASM95922v1
+3	NZ_CP033838.1	Burkholderia dolosa strain FDAARGOS_562 chromosome 1 complete sequence	2168066	1858	2	dolosa	GCF_003813045.1_ASM381304v1
+3	NZ_CP033839.1	Burkholderia dolosa strain FDAARGOS_562 chromosome 2 complete sequence	834424	657	3	dolosa	GCF_003813045.1_ASM381304v1
+3	NZ_CP033840.1	Burkholderia dolosa strain FDAARGOS_562 chromosome 3 complete sequence	3406611	3097	1	dolosa	GCF_003813045.1_ASM381304v1
+2	NZ_CP017046.1	Burkholderia pseudomallei strain MSHR6755 chromosome 1 complete sequence	4050877	3909	1	pseudomallei	GCF_001975085.1_ASM197508v1
+2	NZ_CP017047.1	Burkholderia pseudomallei strain MSHR6755 chromosome 2 complete sequence	3249730	3034	2	pseudomallei	GCF_001975085.1_ASM197508v1
+2	NZ_CP007212.1	Burkholderia plantarii strain ATCC 43733 chromosome 1 complete sequence	4140040	3506	1	plantarii	GCF_001411805.1_ASM141180v1
+2	NZ_CP007213.1	Burkholderia plantarii strain ATCC 43733 chromosome 2 complete sequence	3743649	2914	2	plantarii	GCF_001411805.1_ASM141180v1
+2	NZ_CP007214.1	Burkholderia plantarii strain ATCC 43733 plasmid bpln_1p complete sequence	197362	155	p	plantarii	GCF_001411805.1_ASM141180v1
+2	NZ_CP025302.1	Burkholderia pseudomallei strain PMC2000 chromosome PMC2000.1 complete sequence	4013273	3901	1	pseudomallei	GCF_003547055.1_ASM354705v1
+2	NZ_CP025303.1	Burkholderia pseudomallei strain PMC2000 chromosome PMC2000.2 complete sequence	3173851	2988	2	pseudomallei	GCF_003547055.1_ASM354705v1
+2	NZ_CP017052.1	Burkholderia pseudomallei strain MSHR3763 chromosome 1 complete sequence	4056707	3953	1	pseudomallei	GCF_001975145.1_ASM197514v1
+2	NZ_CP017053.1	Burkholderia pseudomallei strain MSHR3763 chromosome 2 complete sequence	3380273	3105	2	pseudomallei	GCF_001975145.1_ASM197514v1
+2	NZ_CP008732.1	Burkholderia mallei strain 2000031063 chromosome 1 complete sequence	3553363	3550	1	mallei	GCF_000756025.1_ASM75602v2
+2	NZ_CP008731.1	Burkholderia mallei strain 2000031063 chromosome 2 complete sequence	2321567	2232	2	mallei	GCF_000756025.1_ASM75602v2
+2	NZ_CP037972.1	Burkholderia pseudomallei strain BPs133 chromosome 1 complete sequence	3842655	3763	1	pseudomallei	GCF_004367725.1_ASM436772v1
+2	NZ_CP037971.1	Burkholderia pseudomallei strain BPs133 chromosome 2 complete sequence	3099308	2884	2	pseudomallei	GCF_004367725.1_ASM436772v1
+2	NZ_CP012041.1	Burkholderia pseudomallei strain Bp1651 chromosome 1 complete sequence	4112209	3993	1	pseudomallei	GCF_001318245.1_ASM131824v1
+2	NZ_CP012042.1	Burkholderia pseudomallei strain Bp1651 chromosome 2 complete sequence	3147816	2868	2	pseudomallei	GCF_001318245.1_ASM131824v1
+2	NZ_CP008777.1	Burkholderia pseudomallei 576 chromosome 1 complete sequence	4021786	3894	1	pseudomallei	GCF_000756185.1_ASM75618v1
+2	NZ_CP008778.1	Burkholderia pseudomallei 576 chromosome 2 complete sequence	3244818	3034	2	pseudomallei	GCF_000756185.1_ASM75618v1
+3	NZ_CP011503.1	Burkholderia pyrrocinia strain DSM 10685 chromosome 1 complete sequence	3584103	3200	1	pyrrocinia	GCF_001028665.1_ASM102866v1
+3	NZ_CP011504.1	Burkholderia pyrrocinia strain DSM 10685 chromosome 2 complete sequence	3214754	2767	2	pyrrocinia	GCF_001028665.1_ASM102866v1
+3	NZ_CP011505.1	Burkholderia pyrrocinia strain DSM 10685 chromosome 3 complete sequence	1049005	859	3	pyrrocinia	GCF_001028665.1_ASM102866v1
+3	NZ_CP011506.1	Burkholderia pyrrocinia strain DSM 10685 plasmid p2327 complete sequence	113484	103	p	pyrrocinia	GCF_001028665.1_ASM102866v1
+2	NZ_CP018391.1	Burkholderia pseudomallei strain 2011756295 chromosome 1 complete sequence	4224888	4056	1	pseudomallei	GCF_002110965.1_ASM211096v1
+2	NZ_CP018392.1	Burkholderia pseudomallei strain 2011756295 chromosome 2 complete sequence	3273436	3044	2	pseudomallei	GCF_002110965.1_ASM211096v1
+3	NZ_CP013427.1	Burkholderia sp. MSMB0856 chromosome 1 complete sequence	3467548	3115	1	sp.	GCF_001524645.2_ASM152464v2
+3	NZ_CP013428.1	Burkholderia sp. MSMB0856 chromosome 2 complete sequence	2473077	2153	2	sp.	GCF_001524645.2_ASM152464v2
+3	NZ_CP013429.1	Burkholderia sp. MSMB0856 chromosome 3 complete sequence	1059546	890	3	sp.	GCF_001524645.2_ASM152464v2
+3	NZ_CP013426.1	Burkholderia sp. MSMB0856 plasmid pMSMB0856 complete sequence	249331	164	p	sp.	GCF_001524645.2_ASM152464v2
+2	NZ_CP023499.1	Burkholderia thailandensis strain FDAARGOS_426 chromosome 1 complete sequence	3967822	3652	1	thailandensis	GCF_002386205.1_ASM238620v1
+2	NZ_CP023498.1	Burkholderia thailandensis strain FDAARGOS_426 chromosome 2 complete sequence	2762025	2246	2	thailandensis	GCF_002386205.1_ASM238620v1
+2	NZ_CP009535.1	Burkholderia pseudomallei 7894 chromosome I complete sequence	4121652	3977	1	pseudomallei	GCF_000959265.1_ASM95926v1
+2	NZ_CP009536.1	Burkholderia pseudomallei 7894 chromosome II complete sequence	3260260	3042	2	pseudomallei	GCF_000959265.1_ASM95926v1
+3	NZ_CP007783.1	Burkholderia cenocepacia strain DDS 22E-1 chromosome 1 complete sequence	3668832	3320	1	cenocepacia	GCF_000755725.1_ASM75572v1
+3	NZ_CP007784.1	Burkholderia cenocepacia strain DDS 22E-1 chromosome 2 complete sequence	3209624	2787	2	cenocepacia	GCF_000755725.1_ASM75572v1
+3	NZ_CP007782.1	Burkholderia cenocepacia strain DDS 22E-1 chromosome 3 complete sequence	1166794	923	3	cenocepacia	GCF_000755725.1_ASM75572v1
+3	NZ_CP013404.1	Burkholderia lata strain FL-7-5-30-S1-D0 chromosome 1 complete sequence	3756401	3387	1	lata	GCF_001718575.1_ASM171857v1
+3	NZ_CP013406.1	Burkholderia lata strain FL-7-5-30-S1-D0 chromosome 2 complete sequence	3386917	2969	2	lata	GCF_001718575.1_ASM171857v1
+3	NZ_CP013405.1	Burkholderia lata strain FL-7-5-30-S1-D0 chromosome 3 complete sequence	1211521	984	3	lata	GCF_001718575.1_ASM171857v1
+2	NZ_CP004097.1	Burkholderia thailandensis 2002721723 chromosome 1 complete sequence	3662415	3323	1	thailandensis	GCF_000567925.1_ASM56792v1
+2	NZ_CP004098.1	Burkholderia thailandensis 2002721723 chromosome 2 complete sequence	2914718	2466	2	thailandensis	GCF_000567925.1_ASM56792v1
+2	NZ_CP025264.1	Burkholderia pseudomallei strain MSHR1435 chromosome 1 complete sequence	4019555	3922	1	pseudomallei	GCF_002843645.1_ASM284364v1
+2	NZ_CP025265.1	Burkholderia pseudomallei strain MSHR1435 chromosome 2 complete sequence	3258775	3042	2	pseudomallei	GCF_002843645.1_ASM284364v1
+3	NZ_CP016442.1	Burkholderia stabilis strain ATCC BAA-67 chromosome 1 complete sequence	3886092	3546	1	stabilis	GCF_001742165.1_ASM174216v1
+3	NZ_CP016443.1	Burkholderia stabilis strain ATCC BAA-67 chromosome 2 complete sequence	3318880	2879	2	stabilis	GCF_001742165.1_ASM174216v1
+3	NZ_CP016444.1	Burkholderia stabilis strain ATCC BAA-67 chromosome 3 complete sequence	1322975	1085	3	stabilis	GCF_001742165.1_ASM174216v1
+2	NZ_CP009435.1	Burkholderia glumae LMG 2196 = ATCC 33617 chromosome I complete sequence	3659771	3171	1	glumae	GCF_000960995.1_ASM96099v1
+2	NZ_CP009434.1	Burkholderia glumae LMG 2196 = ATCC 33617 chromosome II complete sequence	2820414	2165	2	glumae	GCF_000960995.1_ASM96099v1
+2	NZ_CP009433.1	Burkholderia glumae LMG 2196 = ATCC 33617 plasmid pBIN_1 complete sequence	196020	142	p	glumae	GCF_000960995.1_ASM96099v1
+2	NZ_CP009432.1	Burkholderia glumae LMG 2196 = ATCC 33617 plasmid pBIN_2 complete sequence	144522	131	p	glumae	GCF_000960995.1_ASM96099v1
+2	NZ_CP036454.1	Burkholderia pseudomallei strain BPs111 chromosome 1 complete sequence	3852886	3761	1	pseudomallei	GCF_004323035.1_ASM432303v1
+2	NZ_CP036453.1	Burkholderia pseudomallei strain BPs111 chromosome 2 complete sequence	3113526	2909	2	pseudomallei	GCF_004323035.1_ASM432303v1
+2	NZ_LK936442.1	Burkholderia pseudomallei genome assembly BP_3921g chromosome : 1	4044293	3928	1	pseudomallei	GCF_000953095.1_BP_3921g
+2	NZ_LK936443.1	Burkholderia pseudomallei genome assembly BP_3921g chromosome : 2	3117372	2925	2	pseudomallei	GCF_000953095.1_BP_3921g
+3	NZ_CP013393.1	Burkholderia vietnamiensis strain FL-2-3-30-S1-D0 chromosome 1 complete sequence	3257130	2908	1	vietnamiensis	GCF_001718495.1_ASM171849v1
+3	NZ_CP013394.1	Burkholderia vietnamiensis strain FL-2-3-30-S1-D0 chromosome 2 complete sequence	2428798	2013	2	vietnamiensis	GCF_001718495.1_ASM171849v1
+3	NZ_CP013395.1	Burkholderia vietnamiensis strain FL-2-3-30-S1-D0 chromosome 3 complete sequence	1129355	921	3	vietnamiensis	GCF_001718495.1_ASM171849v1
+2	NZ_CP038218.1	Burkholderia pseudomallei strain Yap5 chromosome 1 complete sequence	3934903	3865	1	pseudomallei	GCF_008728295.1_ASM872829v1
+2	NZ_CP038219.1	Burkholderia pseudomallei strain Yap5 chromosome 2 complete sequence	3171635	2969	2	pseudomallei	GCF_008728295.1_ASM872829v1
+2	NZ_CP009931.1	Burkholderia mallei strain JHU chromosome 1 complete sequence	3510032	3451	1	mallei	GCF_002346205.1_ASM234620v1
+2	NZ_CP009932.1	Burkholderia mallei strain JHU chromosome 2 complete sequence	2226558	2196	2	mallei	GCF_002346205.1_ASM234620v1
+2	NZ_CP013358.1	Burkholderia oklahomensis C6786 chromosome 1 complete sequence	4131753	3671	1	oklahomensis	GCF_001522135.2_ASM152213v2
+2	NZ_CP013359.1	Burkholderia oklahomensis C6786 chromosome 2 complete sequence	3003039	2520	2	oklahomensis	GCF_001522135.2_ASM152213v2
+3	NZ_CP007787.1	Burkholderia cepacia strain DDS 7H-2 chromosome 1 complete sequence	3760231	3479	1	cepacia	GCF_000755805.1_ASM75580v1
+3	NZ_CP007786.1	Burkholderia cepacia strain DDS 7H-2 chromosome 2 complete sequence	3206581	2905	2	cepacia	GCF_000755805.1_ASM75580v1
+3	NZ_CP007785.1	Burkholderia cepacia strain DDS 7H-2 chromosome 3 complete sequence	1180302	1021	3	cepacia	GCF_000755805.1_ASM75580v1
+2	NZ_CP018418.1	Burkholderia pseudomallei strain 2002734728 chromosome 1 complete sequence	4149750	4005	1	pseudomallei	GCF_002111105.1_ASM211110v1
+2	NZ_CP018419.1	Burkholderia pseudomallei strain 2002734728 chromosome 2 complete sequence	3084746	2831	2	pseudomallei	GCF_002111105.1_ASM211110v1
+2	NZ_CP038216.1	Burkholderia pseudomallei strain Yap7 chromosome 1 complete sequence	3932431	3769	1	pseudomallei	GCF_008728275.1_ASM872827v1
+2	NZ_CP038217.1	Burkholderia pseudomallei strain Yap7 chromosome 2 complete sequence	3147867	2868	2	pseudomallei	GCF_008728275.1_ASM872827v1
+2	NZ_CP009601.1	Burkholderia thailandensis 2002721643 chromosome I complete sequence	3808029	3431	1	thailandensis	GCF_000959425.1_ASM95942v1
+2	NZ_CP009602.1	Burkholderia thailandensis 2002721643 chromosome II complete sequence	2914772	2480	2	thailandensis	GCF_000959425.1_ASM95942v1
+2	NZ_CP009545.1	Burkholderia pseudomallei strain MSHR668 chromosome I complete sequence	3915257	3801	1	pseudomallei	GCF_000959305.1_ASM95930v1
+2	NZ_CP009546.1	Burkholderia pseudomallei strain MSHR668 chromosome II complete sequence	3127457	2928	2	pseudomallei	GCF_000959305.1_ASM95930v1
+2	NZ_CP013411.1	Burkholderia thailandensis strain 2002721643 chromosome 1 complete sequence	3897156	3555	1	thailandensis	GCF_001718635.1_ASM171863v1
+2	NZ_CP013413.1	Burkholderia thailandensis strain 2002721643 chromosome 2 complete sequence	2895326	2423	2	thailandensis	GCF_001718635.1_ASM171863v1
+2	NZ_CP013412.1	Burkholderia thailandensis strain 2002721643 plasmid p2002721643 complete sequence	157775	130	p	thailandensis	GCF_001718635.1_ASM171863v1
+3	NZ_CP013459.1	Burkholderia stagnalis strain MSMB735WGS chromosome 1 complete sequence	3703595	3294	1	stagnalis	GCF_001718955.1_ASM171895v1
+3	NZ_CP013461.1	Burkholderia stagnalis strain MSMB735WGS chromosome 2 complete sequence	3001569	2485	2	stagnalis	GCF_001718955.1_ASM171895v1
+3	NZ_CP013460.1	Burkholderia stagnalis strain MSMB735WGS chromosome 3 complete sequence	878643	727	3	stagnalis	GCF_001718955.1_ASM171895v1
+2	NC_015381.1	Burkholderia gladioli BSR3 chromosome 1 complete sequence	4413616	3772	1	gladioli	GCF_000194745.1_ASM19474v1
+2	NC_015376.1	Burkholderia gladioli BSR3 chromosome 2 complete sequence	3700833	2985	2	gladioli	GCF_000194745.1_ASM19474v1
+2	NC_015382.1	Burkholderia gladioli BSR3 plasmid bgla_1p complete sequence	276215	219	p	gladioli	GCF_000194745.1_ASM19474v1
+2	NC_015377.1	Burkholderia gladioli BSR3 plasmid bgla_2p complete sequence	129399	119	p	gladioli	GCF_000194745.1_ASM19474v1
+2	NC_015378.1	Burkholderia gladioli BSR3 plasmid bgla_3p complete sequence	128650	134	p	gladioli	GCF_000194745.1_ASM19474v1
+2	NC_015383.1	Burkholderia gladioli BSR3 plasmid bgla_4p complete sequence	403586	342	p	gladioli	GCF_000194745.1_ASM19474v1
+2	NZ_CP009161.1	Burkholderia pseudomallei TSV 48 chromosome 1 complete sequence	4110442	4005	1	pseudomallei	GCF_000770495.1_ASM77049v1
+2	NZ_CP009160.1	Burkholderia pseudomallei TSV 48 chromosome 2 complete sequence	3227179	2935	2	pseudomallei	GCF_000770495.1_ASM77049v1
+2	NZ_CP018054.1	Burkholderia pseudomallei strain VB976100 chromosome 1 complete sequence	4090973	3933	1	pseudomallei	GCF_001885195.1_ASM188519v1
+2	NZ_CP018055.1	Burkholderia pseudomallei strain VB976100 chromosome 2 complete sequence	3190235	2932	2	pseudomallei	GCF_001885195.1_ASM188519v1
+2	NZ_CP023775.1	Burkholderia pseudomallei strain BPHN1 chromosome 1 complete sequence	4075641	3974	1	pseudomallei	GCF_003606245.1_ASM360624v1
+2	NZ_CP023776.1	Burkholderia pseudomallei strain BPHN1 chromosome 2 complete sequence	3217986	3004	2	pseudomallei	GCF_003606245.1_ASM360624v1
+2	NZ_CP009725.1	Burkholderia mallei strain Turkey1 chromosome 1 complete sequence	3471563	3411	1	mallei	GCF_002345985.1_ASM234598v1
+2	NZ_CP009726.1	Burkholderia mallei strain Turkey1 chromosome 2 complete sequence	2120306	2044	2	mallei	GCF_002345985.1_ASM234598v1
+3	NZ_CP044056.1	Burkholderia multivorans strain FDAARGOS_622 chromosome 1 complete sequence	2365865	2116	2	multivorans	GCF_008693525.1_ASM869352v1
+3	NZ_CP044057.1	Burkholderia multivorans strain FDAARGOS_622 chromosome 2 complete sequence	553192	496	3	multivorans	GCF_008693525.1_ASM869352v1
+3	NZ_CP044058.1	Burkholderia multivorans strain FDAARGOS_622 chromosome 3 complete sequence	3559579	3304	1	multivorans	GCF_008693525.1_ASM869352v1
+2	NZ_CP008711.1	Burkholderia mallei strain 6 chromosome 1 complete sequence	3501048	3442	1	mallei	GCF_000755845.1_ASM75584v1
+2	NZ_CP008710.1	Burkholderia mallei strain 6 chromosome 2 complete sequence	2146721	2083	2	mallei	GCF_000755845.1_ASM75584v1
+2	NZ_CP040077.1	Burkholderia sp. DHOD12 chromosome 1 complete sequence	4775917	4186	1	sp.	GCF_005280735.1_ASM528073v1
+2	NZ_CP040078.1	Burkholderia sp. DHOD12 chromosome 2 complete sequence	3695250	3181	2	sp.	GCF_005280735.1_ASM528073v1
+2	NZ_CP040079.1	Burkholderia sp. DHOD12 chromosome 3 complete sequence	105350	89	-1	sp.	GCF_005280735.1_ASM528073v1
+3	NZ_CP020394.1	Burkholderia vietnamiensis strain FDAARGOS_239 chromosome 1 complete sequence	3317400	2934	1	vietnamiensis	GCF_003019945.1_ASM301994v1
+3	NZ_CP020396.1	Burkholderia vietnamiensis strain FDAARGOS_239 chromosome 2 complete sequence	2262065	1906	2	vietnamiensis	GCF_003019945.1_ASM301994v1
+3	NZ_CP020395.1	Burkholderia vietnamiensis strain FDAARGOS_239 chromosome 3 complete sequence	1248348	1030	3	vietnamiensis	GCF_003019945.1_ASM301994v1
+3	NZ_CP020393.1	Burkholderia vietnamiensis strain FDAARGOS_239 plasmid unnamed complete sequence	102598	99	p	vietnamiensis	GCF_003019945.1_ASM301994v1
+2	NZ_CP009485.1	Burkholderia pseudomallei MSHR491 chromosome I complete sequence	4088931	3988	1	pseudomallei	GCF_000959205.1_ASM95920v1
+2	NZ_CP009484.1	Burkholderia pseudomallei MSHR491 chromosome II complete sequence	3267445	3032	2	pseudomallei	GCF_000959205.1_ASM95920v1
+3	NC_008542.1	Burkholderia cenocepacia HI2424 chromosome 1 complete sequence	3483902	3176	1	cenocepacia	GCF_000203955.1_ASM20395v1
+3	NC_008543.1	Burkholderia cenocepacia HI2424 chromosome 2 complete sequence	2998664	2688	2	cenocepacia	GCF_000203955.1_ASM20395v1
+3	NC_008544.1	Burkholderia cenocepacia HI2424 chromosome 3 complete sequence	1055417	921	3	cenocepacia	GCF_000203955.1_ASM20395v1
+3	NC_008545.1	Burkholderia cenocepacia HI2424 plasmid 1 complete sequence	164857	158	p	cenocepacia	GCF_000203955.1_ASM20395v1
+3	NZ_CP008730.1	Burkholderia multivorans strain DDS 15A-1 chromosome 1 complete sequence	3603686	3342	1	multivorans	GCF_000756005.1_ASM75600v1
+3	NZ_CP008729.1	Burkholderia multivorans strain DDS 15A-1 chromosome 2 complete sequence	2541526	2205	2	multivorans	GCF_000756005.1_ASM75600v1
+3	NZ_CP008728.1	Burkholderia multivorans strain DDS 15A-1 chromosome 3 complete sequence	1136655	997	3	multivorans	GCF_000756005.1_ASM75600v1
+2	NZ_CP009235.1	Burkholderia pseudomallei MSHR62 chromosome 1 complete sequence	4031107	3929	1	pseudomallei	GCF_000770395.1_ASM77039v1
+2	NZ_CP009234.1	Burkholderia pseudomallei MSHR62 chromosome 2 complete sequence	3194326	2964	2	pseudomallei	GCF_000770395.1_ASM77039v1
+3	NZ_CP013401.1	Burkholderia metallica strain FL-6-5-30-S1-D7 chromosome 1 complete sequence	3556612	3186	1	metallica	GCF_001718555.1_ASM171855v1
+3	NZ_CP013403.1	Burkholderia metallica strain FL-6-5-30-S1-D7 chromosome 2 complete sequence	2967116	2564	2	metallica	GCF_001718555.1_ASM171855v1
+3	NZ_CP013402.1	Burkholderia metallica strain FL-6-5-30-S1-D7 chromosome 3 complete sequence	900512	741	3	metallica	GCF_001718555.1_ASM171855v1
+3	NC_021287.1	Burkholderia sp. RPE64 DNA chromosome 1 complete genome	3013410	2723	1	sp.	GCF_000402035.1_ASM40203v1
+3	NC_021294.1	Burkholderia sp. RPE64 DNA chromosome 2 complete genome	1465356	1324	2	sp.	GCF_000402035.1_ASM40203v1
+3	NC_021288.1	Burkholderia sp. RPE64 DNA chromosome 3 complete genome	900830	788	3	sp.	GCF_000402035.1_ASM40203v1
+3	NC_021289.1	Burkholderia sp. RPE64 plasmid p1 DNA complete genome	1275199	1170	p	sp.	GCF_000402035.1_ASM40203v1
+3	NC_021295.1	Burkholderia sp. RPE64 plasmid p2 DNA complete genome	309692	266	p	sp.	GCF_000402035.1_ASM40203v1
+3	NZ_CP015033.1	Burkholderia cenocepacia strain 842 chromosome 1 complete sequence	3526250	3216	1	cenocepacia	GCF_001606115.1_ASM160611v1
+3	NZ_CP015034.1	Burkholderia cenocepacia strain 842 chromosome 2 complete sequence	3107451	2767	2	cenocepacia	GCF_001606115.1_ASM160611v1
+3	NZ_CP015035.1	Burkholderia cenocepacia strain 842 chromosome 3 complete sequence	1271875	1102	3	cenocepacia	GCF_001606115.1_ASM160611v1
+3	NZ_CP015032.1	Burkholderia cenocepacia strain 842 plasmid pBcn842-1 complete sequence	244120	218	p	cenocepacia	GCF_001606115.1_ASM160611v1
+2	NZ_CP008723.1	Burkholderia mallei strain BMQ chromosome 1 complete sequence	3533325	3479	1	mallei	GCF_000755885.1_ASM75588v1
+2	NZ_CP008722.1	Burkholderia mallei strain BMQ chromosome 2 complete sequence	2096906	2060	2	mallei	GCF_000755885.1_ASM75588v1
+3	NZ_CP042164.1	Burkholderia contaminans strain ZCC chromosome 1 complete sequence	3904889	3396	1	contaminans	GCF_007724625.1_ASM772462v1
+3	NZ_CP042165.1	Burkholderia contaminans strain ZCC chromosome 2 complete sequence	3249718	2758	2	contaminans	GCF_007724625.1_ASM772462v1
+3	NZ_CP042166.1	Burkholderia contaminans strain ZCC chromosome 3 complete sequence	1536075	1259	3	contaminans	GCF_007724625.1_ASM772462v1
+3	NZ_CP042167.1	Burkholderia contaminans strain ZCC plasmid unnamed1 complete sequence	239952	222	p	contaminans	GCF_007724625.1_ASM772462v1
+3	NZ_CP042168.1	Burkholderia contaminans strain ZCC plasmid unnamed2 complete sequence	71607	89	p	contaminans	GCF_007724625.1_ASM772462v1
+3	NZ_CP013373.1	Burkholderia sp. NRF60-BP8 chromosome 1 complete sequence	3427375	3134	1	sp.	GCF_001522585.2_ASM152258v2
+3	NZ_CP013372.1	Burkholderia sp. NRF60-BP8 chromosome 2 complete sequence	2801147	2463	2	sp.	GCF_001522585.2_ASM152258v2
+3	NZ_CP013374.1	Burkholderia sp. NRF60-BP8 chromosome 3 complete sequence	851421	727	3	sp.	GCF_001522585.2_ASM152258v2
+3	NZ_CP020397.1	Burkholderia multivorans strain FDAARGOS_246 chromosome 1 complete sequence	3428385	3222	1	multivorans	GCF_003019965.1_ASM301996v1
+3	NZ_CP020398.1	Burkholderia multivorans strain FDAARGOS_246 chromosome 2 complete sequence	2344186	2077	2	multivorans	GCF_003019965.1_ASM301996v1
+3	NZ_CP020399.1	Burkholderia multivorans strain FDAARGOS_246 plasmid unnamed complete sequence	550288	490	3	multivorans	GCF_003019965.1_ASM301996v1
+2	NZ_CP013448.1	Burkholderia sp. Bp7605 strain MSMB0175 chromosome 1 complete sequence	3663220	3156	1	sp.	GCF_001718875.1_ASM171887v1
+2	NZ_CP013449.1	Burkholderia sp. Bp7605 strain MSMB0175 chromosome 2 complete sequence	2042468	1587	2	sp.	GCF_001718875.1_ASM171887v1
+2	NZ_CP018404.1	Burkholderia pseudomallei strain 2013746878 chromosome 1 complete sequence	3267867	3057	2	pseudomallei	GCF_002111005.1_ASM211100v1
+2	NZ_CP018405.1	Burkholderia pseudomallei strain 2013746878 chromosome 2 complete sequence	4062516	3947	1	pseudomallei	GCF_002111005.1_ASM211100v1
+3	NZ_CP017238.1	Burkholderia cenocepacia strain CR318 chromosome 1 complete sequence	3511146	3190	1	cenocepacia	GCF_002007585.1_ASM200758v1
+3	NZ_CP017239.1	Burkholderia cenocepacia strain CR318 chromosome 2 complete sequence	3097552	2739	2	cenocepacia	GCF_002007585.1_ASM200758v1
+3	NZ_CP017240.1	Burkholderia cenocepacia strain CR318 chromosome 3 complete sequence	1056196	921	3	cenocepacia	GCF_002007585.1_ASM200758v1
+3	NZ_CP044053.1	Burkholderia multivorans strain FDAARGOS_623 chromosome 1 complete sequence	553192	496	3	multivorans	GCF_008693485.1_ASM869348v1
+3	NZ_CP044054.1	Burkholderia multivorans strain FDAARGOS_623 chromosome 2 complete sequence	3559578	3305	1	multivorans	GCF_008693485.1_ASM869348v1
+3	NZ_CP044055.1	Burkholderia multivorans strain FDAARGOS_623 chromosome 3 complete sequence	2365849	2117	2	multivorans	GCF_008693485.1_ASM869348v1
+3	NC_011000.1	Burkholderia cenocepacia J2315 chromosome 1 complete genome	3870082	3542	1	cenocepacia	GCF_000009485.1_ASM948v1
+3	NC_011001.1	Burkholderia cenocepacia J2315 chromosome 2 complete genome	3217062	2898	2	cenocepacia	GCF_000009485.1_ASM948v1
+3	NC_011002.1	Burkholderia cenocepacia J2315 chromosome 3 complete genome	875977	781	3	cenocepacia	GCF_000009485.1_ASM948v1
+3	NC_011003.1	Burkholderia cenocepacia J2315 pBCJ2315 plasmid complete genome	92661	96	p	cenocepacia	GCF_000009485.1_ASM948v1
+3	NZ_CP042177.1	Burkholderia sp. KBS0801 chromosome 1 complete sequence	3530666	3158	1	sp.	GCF_005937855.2_ASM593785v2
+3	NZ_CP042178.1	Burkholderia sp. KBS0801 chromosome 2 complete sequence	2783599	2410	2	sp.	GCF_005937855.2_ASM593785v2
+3	NZ_CP042179.1	Burkholderia sp. KBS0801 chromosome 3 complete sequence	1067603	923	3	sp.	GCF_005937855.2_ASM593785v2
+3	NZ_CP022083.2	Burkholderia cepacia strain FDAARGOS_345 chromosome 1 complete sequence	3779906	3461	1	cepacia	GCF_002209085.2_ASM220908v2
+3	NZ_CP022084.2	Burkholderia cepacia strain FDAARGOS_345 chromosome 2 complete sequence	3397795	2960	2	cepacia	GCF_002209085.2_ASM220908v2
+3	NZ_CP022082.2	Burkholderia cepacia strain FDAARGOS_345 chromosome 3 complete sequence	1187984	1006	3	cepacia	GCF_002209085.2_ASM220908v2
+3	NZ_CP022081.2	Burkholderia cepacia strain FDAARGOS_345 plasmid unnamed1 complete sequence	204169	166	p	cepacia	GCF_002209085.2_ASM220908v2
+2	NZ_CP010065.1	Burkholderia mallei strain 2002721276 chromosome 1 complete sequence	3542936	3559	1	mallei	GCF_000959625.1_ASM95962v1
+2	NZ_CP010066.1	Burkholderia mallei strain 2002721276 chromosome 2 complete sequence	2237503	2194	2	mallei	GCF_000959625.1_ASM95962v1
+2	NZ_CP008726.1	Burkholderia oklahomensis strain EO147 chromosome 1 complete sequence	4192008	3739	1	oklahomensis	GCF_000755985.1_ASM75598v1
+2	NZ_CP008727.1	Burkholderia oklahomensis strain EO147 chromosome 2 complete sequence	3121665	2616	2	oklahomensis	GCF_000755985.1_ASM75598v1
+2	NZ_CP009551.1	Burkholderia pseudomallei PB08298010 chromosome I complete sequence	4185347	3991	1	pseudomallei	GCF_000959345.1_ASM95934v1
+2	NZ_CP009550.1	Burkholderia pseudomallei PB08298010 chromosome II complete sequence	3190204	2982	2	pseudomallei	GCF_000959345.1_ASM95934v1
+2	NZ_CP017048.1	Burkholderia pseudomallei strain MSHR5864 chromosome 1 complete sequence	4067698	3911	1	pseudomallei	GCF_001975105.1_ASM197510v1
+2	NZ_CP017049.1	Burkholderia pseudomallei strain MSHR5864 chromosome 2 complete sequence	3249682	3024	2	pseudomallei	GCF_001975105.1_ASM197510v1
+2	NZ_CP013424.1	Burkholderia sp. MSMB0852 chromosome 1 complete sequence	4077888	3622	1	sp.	GCF_001524625.2_ASM152462v2
+2	NZ_CP013425.1	Burkholderia sp. MSMB0852 chromosome 2 complete sequence	2934072	2496	2	sp.	GCF_001524625.2_ASM152462v2
+2	NZ_CP013423.1	Burkholderia sp. MSMB0852 plasmid pMSMB0852 complete sequence	69213	77	p	sp.	GCF_001524625.2_ASM152462v2
+3	NZ_CP013453.1	Burkholderia vietnamiensis strain MSMB608WGS chromosome 1 complete sequence	3322910	2981	1	vietnamiensis	GCF_001718915.1_ASM171891v1
+3	NZ_CP013455.1	Burkholderia vietnamiensis strain MSMB608WGS chromosome 2 complete sequence	2229737	1872	2	vietnamiensis	GCF_001718915.1_ASM171891v1
+3	NZ_CP013456.1	Burkholderia vietnamiensis strain MSMB608WGS chromosome 3 complete sequence	1210488	987	3	vietnamiensis	GCF_001718915.1_ASM171891v1
+3	NZ_CP013454.1	Burkholderia vietnamiensis strain MSMB608WGS plasmid pMSMB608 complete sequence	128579	127	p	vietnamiensis	GCF_001718915.1_ASM171891v1
+2	NZ_CP008891.1	Burkholderia pseudomallei MSHR5858 chromosome 2 complete sequence	3146583	2942	2	pseudomallei	GCF_000755945.1_ASM75594v1
+2	NZ_CP008892.1	Burkholderia pseudomallei MSHR5858 chromosome 1 complete sequence	3925545	3853	1	pseudomallei	GCF_000755945.1_ASM75594v1
+0	NZ_CP019670.1	Burkholderia cenocepacia strain VC12802 chromosome 1 complete sequence	6339862	5660	-1	cenocepacia	GCF_001999825.1_ASM199982v1
+0	NZ_CP019669.1	Burkholderia cenocepacia strain VC12802 chromosome 2 complete sequence	1055047	922	-1	cenocepacia	GCF_001999825.1_ASM199982v1
+2	NZ_CP010017.1	Burkholderia thailandensis 34 chromosome 1 complete sequence	3896053	3553	1	thailandensis	GCF_000959605.1_ASM95960v1
+2	NZ_CP010018.1	Burkholderia thailandensis 34 chromosome 2 complete sequence	2897757	2436	2	thailandensis	GCF_000959605.1_ASM95960v1
+2	NZ_CP010016.1	Burkholderia thailandensis 34 plasmid complete sequence	326388	268	p	thailandensis	GCF_000959605.1_ASM95960v1
+2	NZ_CP023522.1	Burkholderia gladioli pv. gladioli strain FDAARGOS_389 chromosome 1 complete sequence	4209407	3729	1	gladioli	GCF_002393425.1_ASM239342v1
+2	NZ_CP023523.1	Burkholderia gladioli pv. gladioli strain FDAARGOS_389 chromosome 2 complete sequence	3925840	3189	2	gladioli	GCF_002393425.1_ASM239342v1
+2	NZ_CP023524.1	Burkholderia gladioli pv. gladioli strain FDAARGOS_389 plasmid unnamed complete sequence	151925	163	p	gladioli	GCF_002393425.1_ASM239342v1
+2	NC_014539.1	Burkholderia sp. CCGE1003 chromosome 1 complete sequence	4077097	3438	1	sp.	GCF_000148685.1_ASM14868v1
+2	NC_014540.1	Burkholderia sp. CCGE1003 chromosome 2 complete sequence	2966498	2493	2	sp.	GCF_000148685.1_ASM14868v1
+2	NZ_CP017050.1	Burkholderia pseudomallei strain MSHR4083 chromosome 1 complete sequence	4056633	3723	1	pseudomallei	GCF_001975125.1_ASM197512v1
+2	NZ_CP017051.1	Burkholderia pseudomallei strain MSHR4083 chromosome 2 complete sequence	3380426	2839	2	pseudomallei	GCF_001975125.1_ASM197512v1
+2	NZ_CP009707.1	Burkholderia mallei strain 2002734306 chromosome I complete sequence	3550623	3516	1	mallei	GCF_000959485.1_ASM95948v1
+2	NZ_CP009708.1	Burkholderia mallei strain 2002734306 chromosome II complete sequence	1858539	1893	2	mallei	GCF_000959485.1_ASM95948v1
+2	NZ_CP008834.1	Burkholderia pseudomallei strain BGR chromosome 1 complete sequence	4092738	4041	1	pseudomallei	GCF_000756085.1_ASM75608v1
+2	NZ_CP008835.1	Burkholderia pseudomallei strain BGR chromosome 2 complete sequence	3138647	2953	2	pseudomallei	GCF_000756085.1_ASM75608v1
+2	NZ_CP013360.1	Burkholderia thailandensis strain 2003015869 chromosome 1 complete sequence	3762719	3414	1	thailandensis	GCF_001718295.1_ASM171829v1
+2	NZ_CP013361.1	Burkholderia thailandensis strain 2003015869 chromosome 2 complete sequence	2966282	2482	2	thailandensis	GCF_001718295.1_ASM171829v1
+2	NZ_CP020392.1	Burkholderia thailandensis strain FDAARGOS_238 chromosome 1 complete sequence	3827809	3460	1	thailandensis	GCF_003020185.1_ASM302018v1
+2	NZ_CP020391.1	Burkholderia thailandensis strain FDAARGOS_238 chromosome 2 complete sequence	2940845	2470	2	thailandensis	GCF_003020185.1_ASM302018v1
+2	NC_007434.1	Burkholderia pseudomallei 1710b chromosome I complete sequence	4126292	4053	1	pseudomallei	GCF_000012785.1_ASM1278v1
+2	NC_007435.1	Burkholderia pseudomallei 1710b chromosome II complete sequence	3181762	2948	2	pseudomallei	GCF_000012785.1_ASM1278v1
+2	NZ_CP008909.1	Burkholderia pseudomallei MSHR5848 chromosome 1 complete sequence	4054219	3978	1	pseudomallei	GCF_000755965.1_ASM75596v1
+2	NZ_CP008910.1	Burkholderia pseudomallei MSHR5848 chromosome 2 complete sequence	3236215	2960	2	pseudomallei	GCF_000755965.1_ASM75596v1
+2	NC_009074.1	Burkholderia pseudomallei 668 chromosome I complete sequence	3912947	3795	1	pseudomallei	GCF_000015905.1_ASM1590v1
+2	NC_009075.1	Burkholderia pseudomallei 668 chromosome II complete sequence	3127456	2929	2	pseudomallei	GCF_000015905.1_ASM1590v1
+2	NC_017831.1	Burkholderia pseudomallei 1026b chromosome 1 complete sequence	4092668	4041	1	pseudomallei	GCF_000260515.1_ASM26051v1
+2	NC_017832.1	Burkholderia pseudomallei 1026b chromosome 2 complete sequence	3138747	2958	2	pseudomallei	GCF_000260515.1_ASM26051v1
+2	NZ_CP009148.1	Burkholderia mallei strain FMH 23344 chromosome 1 complete sequence	3510187	3507	1	mallei	GCF_000755785.1_ASM75578v1
+2	NZ_CP009147.1	Burkholderia mallei strain FMH 23344 chromosome 2 complete sequence	2325354	2253	2	mallei	GCF_000755785.1_ASM75578v1
+3	NZ_CP045235.1	Burkholderia cepacia strain BC16 chromosome 1 complete sequence	3688624	3306	1	cepacia	GCF_009586235.1_ASM958623v1
+3	NZ_CP045236.1	Burkholderia cepacia strain BC16 chromosome 2 complete sequence	3430130	2971	2	cepacia	GCF_009586235.1_ASM958623v1
+3	NZ_CP045237.1	Burkholderia cepacia strain BC16 chromosome 3 complete sequence	1248114	1060	3	cepacia	GCF_009586235.1_ASM958623v1
+2	NC_015136.1	Burkholderia sp. CCGE1001 chromosome 1 complete sequence	4063449	3509	1	sp.	GCF_000176935.3_ASM17693v3
+2	NC_015137.1	Burkholderia sp. CCGE1001 chromosome 2 complete sequence	2770302	2387	2	sp.	GCF_000176935.3_ASM17693v3
+2	NZ_CP012899.1	Burkholderia sp. CCGE1001 plasmid pCCGE1001a complete sequence	419743	340	p	sp.	GCF_000176935.3_ASM17693v3
+2	NZ_CP009741.1	Burkholderia mallei strain Turkey9 chromosome 1 complete sequence	3045954	2989	-1	mallei	GCF_002346185.1_ASM234618v1
+2	NZ_CP009742.1	Burkholderia mallei strain Turkey9 chromosome 2 complete sequence	2728358	2678	-1	mallei	GCF_002346185.1_ASM234618v1
+2	NZ_CP009929.1	Burkholderia mallei strain FMH chromosome 1 complete sequence	3510109	3452	1	mallei	GCF_002346045.1_ASM234604v1
+2	NZ_CP009930.1	Burkholderia mallei strain FMH chromosome 2 complete sequence	2325357	2247	2	mallei	GCF_002346045.1_ASM234604v1
+3	NZ_CP013370.1	Burkholderia ubonensis strain RF23-BP41 chromosome 1 complete sequence	3724327	3372	1	ubonensis	GCF_001718355.1_ASM171835v1
+3	NZ_CP013371.1	Burkholderia ubonensis strain RF23-BP41 chromosome 2 complete sequence	3052802	2578	2	ubonensis	GCF_001718355.1_ASM171835v1
+3	NZ_CP013368.1	Burkholderia ubonensis strain RF23-BP41 chromosome 3 complete sequence	925790	686	3	ubonensis	GCF_001718355.1_ASM171835v1
+3	NZ_CP013369.1	Burkholderia ubonensis strain RF23-BP41 plasmid pRF23 complete sequence	258679	193	p	ubonensis	GCF_001718355.1_ASM171835v1
+2	NZ_CP018384.1	Burkholderia pseudomallei strain 2008724860 chromosome 1 complete sequence	4032598	3871	1	pseudomallei	GCF_002111125.1_ASM211112v1
+2	NZ_CP018386.1	Burkholderia pseudomallei strain 2008724860 chromosome 2 complete sequence	3212183	2946	2	pseudomallei	GCF_002111125.1_ASM211112v1
+2	NZ_CP018385.1	Burkholderia pseudomallei strain 2008724860 plasmid p1 complete sequence	297875	293	p	pseudomallei	GCF_002111125.1_ASM211112v1
+2	NZ_CP004003.1	Burkholderia pseudomallei NAU20B-16 chromosome 1 complete sequence	4067895	3914	1	pseudomallei	GCF_000511915.1_ASM51191v1
+2	NZ_CP004004.1	Burkholderia pseudomallei NAU20B-16 chromosome 2 complete sequence	3245956	3008	2	pseudomallei	GCF_000511915.1_ASM51191v1
+2	NZ_CP045087.1	Burkholderia glumae strain GX chromosome 1 complete sequence	3712850	3198	1	glumae	GCF_009578005.1_ASM957800v1
+2	NZ_CP045088.1	Burkholderia glumae strain GX chromosome 2 complete sequence	2750046	2124	2	glumae	GCF_009578005.1_ASM957800v1
+2	NZ_CP045089.1	Burkholderia glumae strain GX plasmid pWSGX1 complete sequence	201571	152	p	glumae	GCF_009578005.1_ASM957800v1
+2	NZ_CP045090.1	Burkholderia glumae strain GX plasmid pWSGX2 complete sequence	105587	93	p	glumae	GCF_009578005.1_ASM957800v1
+2	NZ_CP045091.1	Burkholderia glumae strain GX plasmid pWSGX3 complete sequence	96100	75	p	glumae	GCF_009578005.1_ASM957800v1
+2	NZ_CP002580.1	Burkholderia plantarii strain PG1 chromosome 1 complete sequence	4163767	3548	1	plantarii	GCF_000835205.1_ASM83520v1
+2	NZ_CP002581.1	Burkholderia plantarii strain PG1 chromosome 2 complete sequence	3732771	2974	2	plantarii	GCF_000835205.1_ASM83520v1
+3	NZ_CP013390.1	Burkholderia contaminans strain FL-1-2-30-S1-D0 chromosome 1 complete sequence	3617292	3251	1	contaminans	GCF_003704285.1_ASM370428v1
+3	NZ_CP013391.1	Burkholderia contaminans strain FL-1-2-30-S1-D0 chromosome 2 complete sequence	3182734	2749	2	contaminans	GCF_003704285.1_ASM370428v1
+3	NZ_CP013392.1	Burkholderia contaminans strain FL-1-2-30-S1-D0 chromosome 3 complete sequence	1370749	1144	3	contaminans	GCF_003704285.1_ASM370428v1
+2	NZ_CP018414.1	Burkholderia pseudomallei strain 3000047530 chromosome 1 complete sequence	4191431	3909	1	pseudomallei	GCF_002111285.1_ASM211128v1
+2	NZ_CP018415.1	Burkholderia pseudomallei strain 3000047530 chromosome 2 complete sequence	3245094	2885	2	pseudomallei	GCF_002111285.1_ASM211128v1
+3	NZ_CP009488.1	Burkholderia ubonensis MSMB22 chromosome I complete sequence	3546310	3202	1	ubonensis	GCF_000959245.1_ASM95924v1
+3	NZ_CP009486.1	Burkholderia ubonensis MSMB22 chromosome II complete sequence	2722556	2273	2	ubonensis	GCF_000959245.1_ASM95924v1
+3	NZ_CP009487.1	Burkholderia ubonensis MSMB22 chromosome III complete sequence	920205	652	3	ubonensis	GCF_000959245.1_ASM95924v1
+3	NZ_CP013362.1	Burkholderia diffusa strain RF2-non-BP9 chromosome 1 complete sequence	3333368	3012	1	diffusa	GCF_001718315.1_ASM171831v1
+3	NZ_CP013363.1	Burkholderia diffusa strain RF2-non-BP9 chromosome 2 complete sequence	2619120	2296	2	diffusa	GCF_001718315.1_ASM171831v1
+3	NZ_CP013364.1	Burkholderia diffusa strain RF2-non-BP9 chromosome 3 complete sequence	905345	751	3	diffusa	GCF_001718315.1_ASM171831v1
+3	NZ_CP033745.1	Burkholderia multivorans strain FDAARGOS_548 chromosome 1 complete sequence	3239301	2987	1	multivorans	GCF_003812585.1_ASM381258v1
+3	NZ_CP033746.1	Burkholderia multivorans strain FDAARGOS_548 chromosome 2 complete sequence	1030740	911	3	multivorans	GCF_003812585.1_ASM381258v1
+3	NZ_CP033747.1	Burkholderia multivorans strain FDAARGOS_548 chromosome 3 complete sequence	2383823	2100	2	multivorans	GCF_003812585.1_ASM381258v1
+2	NZ_CP004385.1	Burkholderia thailandensis MSMB59 chromosome 1 complete sequence	3916324	3612	1	thailandensis	GCF_000764595.1_ASM76459v1
+2	NZ_CP004386.1	Burkholderia thailandensis MSMB59 chromosome 2 complete sequence	2823176	2337	2	thailandensis	GCF_000764595.1_ASM76459v1
+2	NC_006348.1	Burkholderia mallei ATCC 23344 chromosome 1 complete sequence	3510148	2995	1	mallei	GCF_000011705.1_ASM1170v1
+2	NC_006349.2	Burkholderia mallei ATCC 23344 chromosome 2 complete sequence	2325379	2027	2	mallei	GCF_000011705.1_ASM1170v1
+2	NZ_CP009162.1	Burkholderia pseudomallei K42 chromosome 1 complete sequence	3969389	3815	1	pseudomallei	GCF_000770515.1_ASM77051v1
+2	NZ_CP009163.1	Burkholderia pseudomallei K42 chromosome 2 complete sequence	3327069	3096	2	pseudomallei	GCF_000770515.1_ASM77051v1
+2	NZ_CP009899.1	Burkholderia pseudomallei Pasteur 52237 chromosome 1 complete sequence	4140573	4054	1	pseudomallei	GCF_000757035.2_ASM75703v2
+2	NZ_CP009898.1	Burkholderia pseudomallei Pasteur 52237 chromosome 2 complete sequence	3184745	2938	2	pseudomallei	GCF_000757035.2_ASM75703v2
+2	NZ_CP013380.1	Burkholderia sp. Bp5365 strain MSMB43 chromosome 1 complete sequence	4069152	3668	1	sp.	GCF_001513745.1_ASM151374v1
+2	NZ_CP013382.1	Burkholderia sp. Bp5365 strain MSMB43 chromosome 2 complete sequence	2913543	2450	2	sp.	GCF_001513745.1_ASM151374v1
+2	NZ_CP013381.1	Burkholderia sp. Bp5365 strain MSMB43 plasmid pMSMB43 complete sequence	305114	247	p	sp.	GCF_001513745.1_ASM151374v1
+2	NZ_CP009587.1	Burkholderia mallei strain 11 chromosome I complete sequence	3559874	3544	1	mallei	GCF_000959405.1_ASM95940v1
+2	NZ_CP009588.1	Burkholderia mallei strain 11 chromosome II complete sequence	2353260	2246	2	mallei	GCF_000959405.1_ASM95940v1
+3	NC_010508.1	Burkholderia cenocepacia MC0-3 chromosome 1 complete sequence	3532883	3218	1	cenocepacia	GCF_000019505.1_ASM1950v1
+3	NC_010515.1	Burkholderia cenocepacia MC0-3 chromosome 2 complete sequence	3213911	2825	2	cenocepacia	GCF_000019505.1_ASM1950v1
+3	NC_010512.1	Burkholderia cenocepacia MC0-3 chromosome 3 complete sequence	1224595	1059	3	cenocepacia	GCF_000019505.1_ASM1950v1
+2	NZ_CP017044.1	Burkholderia pseudomallei strain MSHR7929 chromosome 1 complete sequence	3976360	3853	1	pseudomallei	GCF_001975065.1_ASM197506v1
+2	NZ_CP017045.1	Burkholderia pseudomallei strain MSHR7929 chromosome 2 complete sequence	3272138	3068	2	pseudomallei	GCF_001975065.1_ASM197506v1
+3	NZ_CP011917.1	Burkholderia cenocepacia strain ST32 chromosome 1 complete sequence	3822749	3448	1	cenocepacia	GCF_001484665.1_ASM148466v1
+3	NZ_CP011918.1	Burkholderia cenocepacia strain ST32 chromosome 2 complete sequence	3086109	2700	2	cenocepacia	GCF_001484665.1_ASM148466v1
+3	NZ_CP011919.1	Burkholderia cenocepacia strain ST32 chromosome 3 complete sequence	989585	835	3	cenocepacia	GCF_001484665.1_ASM148466v1
+3	NZ_CP011920.1	Burkholderia cenocepacia strain ST32 plasmid pBCEN1232 complete sequence	191945	166	p	cenocepacia	GCF_001484665.1_ASM148466v1
+2	NZ_CP037758.1	Burkholderia pseudomallei strain BPs115 chromosome 1 complete sequence	3854943	3766	1	pseudomallei	GCF_004348055.1_ASM434805v1
+2	NZ_CP037757.1	Burkholderia pseudomallei strain BPs115 chromosome 2 complete sequence	3103695	2897	2	pseudomallei	GCF_004348055.1_ASM434805v1
+2	NZ_CP012576.1	Burkholderia pseudomallei strain 982 chromosome 1 complete sequence	4028032	3961	1	pseudomallei	GCF_001277975.1_ASM127797v1
+2	NZ_CP012577.1	Burkholderia pseudomallei strain 982 chromosome 2 complete sequence	3156645	2974	2	pseudomallei	GCF_001277975.1_ASM127797v1
+3	NZ_CP034545.1	Burkholderia cenocepacia strain YG-3 chromosome 1 complete sequence	3645818	3295	1	cenocepacia	GCF_003966315.1_ASM396631v1
+3	NZ_CP034546.1	Burkholderia cenocepacia strain YG-3 chromosome 2 complete sequence	1350848	1160	3	cenocepacia	GCF_003966315.1_ASM396631v1
+3	NZ_CP034547.1	Burkholderia cenocepacia strain YG-3 chromosome 3 complete sequence	3039797	2634	2	cenocepacia	GCF_003966315.1_ASM396631v1
+3	NZ_CP013446.1	Burkholderia ubonensis strain MSMB1189WGS chromosome 1 complete sequence	3756926	3387	1	ubonensis	GCF_001718855.1_ASM171885v1
+3	NZ_CP013447.1	Burkholderia ubonensis strain MSMB1189WGS chromosome 2 complete sequence	3435939	2858	2	ubonensis	GCF_001718855.1_ASM171885v1
+3	NZ_CP013445.1	Burkholderia ubonensis strain MSMB1189WGS chromosome 3 complete sequence	835894	639	3	ubonensis	GCF_001718855.1_ASM171885v1
+3	NZ_CP007746.1	Burkholderia cepacia ATCC 25416 chromosome 1 complete sequence	3779447	3458	1	cepacia	GCF_003546465.1_ASM354646v1
+3	NZ_CP007748.1	Burkholderia cepacia ATCC 25416 chromosome 2 complete sequence	3396456	2961	2	cepacia	GCF_003546465.1_ASM354646v1
+3	NZ_CP007747.1	Burkholderia cepacia ATCC 25416 chromosome 3 complete sequence	1187985	1006	3	cepacia	GCF_003546465.1_ASM354646v1
+3	NZ_CP007745.1	Burkholderia cepacia ATCC 25416 plasmid complete sequence	203123	164	p	cepacia	GCF_003546465.1_ASM354646v1
+2	NZ_CP040551.1	Burkholderia pseudomallei strain VB2514 chromosome 1 complete sequence	3116035	2740	2	pseudomallei	GCF_005862325.1_ASM586232v1
+2	NZ_CP040552.1	Burkholderia pseudomallei strain VB2514 chromosome 2 complete sequence	3987244	3693	1	pseudomallei	GCF_005862325.1_ASM586232v1
+2	NZ_CP016638.1	Burkholderia pseudomallei strain M1 chromosome 1 complete sequence	4061776	3898	1	pseudomallei	GCF_001695715.1_ASM169571v1
+2	NZ_CP016639.1	Burkholderia pseudomallei strain M1 chromosome 2 complete sequence	3256300	3001	2	pseudomallei	GCF_001695715.1_ASM169571v1
+2	NZ_CP009739.1	Burkholderia mallei strain Turkey8 chromosome 1 complete sequence	3573819	3518	1	mallei	GCF_002346165.1_ASM234616v1
+2	NZ_CP009740.1	Burkholderia mallei strain Turkey8 chromosome 2 complete sequence	2120572	2050	2	mallei	GCF_002346165.1_ASM234616v1
+0	NZ_CP019668.1	Burkholderia cenocepacia strain VC7848 chromosome complete genome	7499459	6707	-1	cenocepacia	GCF_001999785.1_ASM199978v1
+3	NC_010804.1	Burkholderia multivorans ATCC 17616 DNA complete genome chromosome 1	3448421	3204	1	multivorans	GCF_000010545.1_ASM1054v1
+3	NC_010805.1	Burkholderia multivorans ATCC 17616 genomic DNA complete genome chromosome 2	2473162	2212	2	multivorans	GCF_000010545.1_ASM1054v1
+3	NC_010801.1	Burkholderia multivorans ATCC 17616 genomic DNA complete genome chromosome 3	919805	820	3	multivorans	GCF_000010545.1_ASM1054v1
+3	NC_010802.1	Burkholderia multivorans ATCC 17616 plasmid pTGL1 DNA complete sequence	167422	162	p	multivorans	GCF_000010545.1_ASM1054v1
+2	NZ_CP008785.1	Burkholderia thailandensis E264 chromosome 1 complete sequence	3986340	3532	1	thailandensis	GCF_003568605.1_ASM356860v1
+2	NZ_CP008786.1	Burkholderia thailandensis E264 chromosome 2 complete sequence	2735759	2343	2	thailandensis	GCF_003568605.1_ASM356860v1
+2	NZ_CP009555.1	Burkholderia oklahomensis C6786 chromosome I complete sequence	4132035	3656	1	oklahomensis	GCF_000959365.1_ASM95936v1
+2	NZ_CP009556.1	Burkholderia oklahomensis C6786 chromosome II complete sequence	3002987	2517	2	oklahomensis	GCF_000959365.1_ASM95936v1
+2	NZ_CP016911.1	Burkholderia pseudomallei strain Burk178-Type2 chromosome 1 complete sequence	4054192	3955	1	pseudomallei	GCF_001887575.1_ASM188757v1
+2	NZ_CP016912.1	Burkholderia pseudomallei strain Burk178-Type2 chromosome 2 complete sequence	3236690	2958	2	pseudomallei	GCF_001887575.1_ASM188757v1
+2	NZ_CP009585.1	Burkholderia pseudomallei strain PHLS 112 chromosome I complete sequence	3976798	3896	1	pseudomallei	GCF_000757015.2_ASM75701v2
+2	NZ_CP009586.1	Burkholderia pseudomallei strain PHLS 112 chromosome II complete sequence	3225565	3004	2	pseudomallei	GCF_000757015.2_ASM75701v2
+3	NZ_CP020737.1	[Pseudomonas] mesoacidophila strain ATCC 31433 chromosome 1 complete sequence	3737663	3358	1	mesoacidophila	GCF_002097715.1_ASM209771v1
+3	NZ_CP020738.1	[Pseudomonas] mesoacidophila strain ATCC 31433 chromosome 2 complete sequence	3308659	2852	2	mesoacidophila	GCF_002097715.1_ASM209771v1
+3	NZ_CP020739.1	[Pseudomonas] mesoacidophila strain ATCC 31433 chromosome 3 complete sequence	641159	482	3	mesoacidophila	GCF_002097715.1_ASM209771v1
+3	NZ_CP020740.1	[Pseudomonas] mesoacidophila strain ATCC 31433 plasmid pATCC31433 complete sequence	153349	158	p	mesoacidophila	GCF_002097715.1_ASM209771v1
+2	NZ_CP008784.1	Burkholderia pseudomallei MSHR5855 chromosome 1 complete sequence	4060827	3976	1	pseudomallei	GCF_000756065.1_ASM75606v1
+2	NZ_CP008783.1	Burkholderia pseudomallei MSHR5855 chromosome 2 complete sequence	3236977	2959	2	pseudomallei	GCF_000756065.1_ASM75606v1
+2	NZ_CP013409.1	Burkholderia thailandensis strain 2002721121 chromosome 1 complete sequence	3827782	3421	1	thailandensis	GCF_001718615.1_ASM171861v1
+2	NZ_CP013410.1	Burkholderia thailandensis strain 2002721121 chromosome 2 complete sequence	2940149	2442	2	thailandensis	GCF_001718615.1_ASM171861v1
+2	NZ_CP018389.1	Burkholderia pseudomallei strain 2011756189 chromosome 1 complete sequence	4099199	3927	1	pseudomallei	GCF_002111165.1_ASM211116v1
+2	NZ_CP018390.1	Burkholderia pseudomallei strain 2011756189 chromosome 2 complete sequence	3245772	3022	2	pseudomallei	GCF_002111165.1_ASM211116v1
+2	NZ_CP009727.1	Burkholderia mallei strain Turkey2 chromosome 1 complete sequence	3471484	3418	1	mallei	GCF_002346025.1_ASM234602v1
+2	NZ_CP009728.1	Burkholderia mallei strain Turkey2 chromosome 2 complete sequence	2120565	2046	2	mallei	GCF_002346025.1_ASM234602v1
+2	NZ_CP038220.1	Burkholderia pseudomallei strain Yap4 chromosome 1 complete sequence	3931933	3854	1	pseudomallei	GCF_008728315.1_ASM872831v1
+2	NZ_CP038221.1	Burkholderia pseudomallei strain Yap4 chromosome 2 complete sequence	3159667	2976	2	pseudomallei	GCF_008728315.1_ASM872831v1
+2	NC_008836.1	Burkholderia mallei NCTC 10229 chromosome I complete sequence	3458208	3392	1	mallei	GCF_000015605.1_ASM1560v1
+2	NC_008835.1	Burkholderia mallei NCTC 10229 chromosome II complete sequence	2284095	2210	2	mallei	GCF_000015605.1_ASM1560v1
+2	NZ_CP009165.1	Burkholderia pseudomallei A79A chromosome 1 complete sequence	4008865	3860	1	pseudomallei	GCF_000770535.1_ASM77053v1
+2	NZ_CP009164.1	Burkholderia pseudomallei A79A chromosome 2 complete sequence	3263576	3053	2	pseudomallei	GCF_000770535.1_ASM77053v1
+2	NZ_CP018412.1	Burkholderia pseudomallei strain 3000015486 chromosome 1 complete sequence	3269674	3020	2	pseudomallei	GCF_002111385.1_ASM211138v1
+2	NZ_CP018413.1	Burkholderia pseudomallei strain 3000015486 chromosome 2 complete sequence	4177999	4078	1	pseudomallei	GCF_002111385.1_ASM211138v1
+2	NZ_CP033430.1	Burkholderia gladioli strain Co14 chromosome 1 complete sequence	4171651	3617	1	gladioli	GCF_003713105.1_ASM371310v1
+2	NZ_CP033431.1	Burkholderia gladioli strain Co14 chromosome 2 complete sequence	4002946	3240	2	gladioli	GCF_003713105.1_ASM371310v1
+2	NZ_CP033429.1	Burkholderia gladioli strain Co14 plasmid p1 complete sequence	145928	136	p	gladioli	GCF_003713105.1_ASM371310v1
+2	NZ_CP009729.1	Burkholderia mallei strain Turkey3 chromosome 1 complete sequence	3558404	3489	1	mallei	GCF_002346065.1_ASM234606v1
+2	NZ_CP009730.1	Burkholderia mallei strain Turkey3 chromosome 2 complete sequence	2104778	2093	2	mallei	GCF_002346065.1_ASM234606v1
+2	NZ_CP018369.1	Burkholderia pseudomallei strain 2002721123 chromosome 1 complete sequence	4027562	3868	1	pseudomallei	GCF_002111325.1_ASM211132v1
+2	NZ_CP018370.1	Burkholderia pseudomallei strain 2002721123 chromosome 2 complete sequence	3207929	2968	2	pseudomallei	GCF_002111325.1_ASM211132v1
+3	NC_010551.1	Burkholderia ambifaria MC40-6 chromosome 1 complete sequence	3443583	3034	1	ambifaria	GCF_000019925.1_ASM1992v1
+3	NC_010552.1	Burkholderia ambifaria MC40-6 chromosome 2 complete sequence	2769414	2335	2	ambifaria	GCF_000019925.1_ASM1992v1
+3	NC_010557.1	Burkholderia ambifaria MC40-6 chromosome 3 complete sequence	1127947	954	3	ambifaria	GCF_000019925.1_ASM1992v1
+3	NC_010553.1	Burkholderia ambifaria MC40-6 plasmid pBMC401 complete sequence	301592	252	p	ambifaria	GCF_000019925.1_ASM1992v1
+3	NZ_CP023518.1	Burkholderia cepacia strain FDAARGOS_388 chromosome 1 complete sequence	3779890	3469	1	cepacia	GCF_002407525.2_ASM240752v3
+3	NZ_CP023521.1	Burkholderia cepacia strain FDAARGOS_388 chromosome 2 complete sequence	3397791	2980	2	cepacia	GCF_002407525.2_ASM240752v3
+3	NZ_CP023520.1	Burkholderia cepacia strain FDAARGOS_388 chromosome 3 complete sequence	1187978	1026	3	cepacia	GCF_002407525.2_ASM240752v3
+3	NZ_CP023519.1	Burkholderia cepacia strain FDAARGOS_388 plasmid unnamed1 complete sequence	204165	170	p	cepacia	GCF_002407525.2_ASM240752v3
+2	NZ_CP009733.1	Burkholderia mallei strain Turkey5 chromosome 1 complete sequence	3512356	3451	1	mallei	GCF_002346105.1_ASM234610v1
+2	NZ_CP009734.1	Burkholderia mallei strain Turkey5 chromosome 2 complete sequence	2185904	2173	2	mallei	GCF_002346105.1_ASM234610v1
+2	NZ_CP008911.1	Burkholderia pseudomallei HBPUB10134a chromosome 1 complete sequence	4017692	3892	1	pseudomallei	GCF_000755925.1_ASM75592v1
+2	NZ_CP008912.1	Burkholderia pseudomallei HBPUB10134a chromosome 2 complete sequence	3200711	3013	2	pseudomallei	GCF_000755925.1_ASM75592v1
+2	NZ_CP018410.1	Burkholderia pseudomallei strain 3000015237 chromosome 1 complete sequence	4056450	3897	1	pseudomallei	GCF_002111045.1_ASM211104v1
+2	NZ_CP018411.1	Burkholderia pseudomallei strain 3000015237 chromosome 2 complete sequence	3263237	3051	2	pseudomallei	GCF_002111045.1_ASM211104v1
+3	NZ_CP028962.1	Burkholderia sp. IDO3 chromosome 1 complete sequence	3139806	2765	2	sp.	GCF_003366075.1_ASM336607v1
+3	NZ_CP028963.1	Burkholderia sp. IDO3 chromosome 2 complete sequence	3591606	3251	1	sp.	GCF_003366075.1_ASM336607v1
+3	NZ_CP028964.1	Burkholderia sp. IDO3 chromosome 3 complete sequence	851589	741	3	sp.	GCF_003366075.1_ASM336607v1
+3	NZ_CP028965.1	Burkholderia sp. IDO3 plasmid p1 complete sequence	420805	388	p	sp.	GCF_003366075.1_ASM336607v1
+2	NZ_CP008704.1	Burkholderia mallei strain 23344 chromosome 1 complete sequence	3531732	3462	1	mallei	GCF_000755865.1_ASM75586v1
+2	NZ_CP008705.1	Burkholderia mallei strain 23344 chromosome 2 complete sequence	2093560	2068	2	mallei	GCF_000755865.1_ASM75586v1
+3	NC_008390.1	Burkholderia ambifaria AMMD chromosome 1 complete sequence	3556545	3194	1	ambifaria	GCF_000203915.1_ASM20391v1
+3	NC_008391.1	Burkholderia ambifaria AMMD chromosome 2 complete sequence	2646969	2313	2	ambifaria	GCF_000203915.1_ASM20391v1
+3	NC_008392.1	Burkholderia ambifaria AMMD chromosome 3 complete sequence	1281472	994	3	ambifaria	GCF_000203915.1_ASM20391v1
+3	NC_008385.1	Burkholderia ambifaria AMMD plasmid1 complete sequence	43581	45	p	ambifaria	GCF_000203915.1_ASM20391v1
+3	NZ_CP009832.1	Burkholderia multivorans ATCC BAA-247 chromosome 1 complete sequence	3428264	3222	1	multivorans	GCF_000959525.1_ASM95952v1
+3	NZ_CP009831.1	Burkholderia multivorans ATCC BAA-247 chromosome 2 complete sequence	2344193	2072	2	multivorans	GCF_000959525.1_ASM95952v1
+3	NZ_CP009830.1	Burkholderia multivorans ATCC BAA-247 chromosome 3 complete sequence	550289	493	3	multivorans	GCF_000959525.1_ASM95952v1
+2	NZ_CP004379.1	Burkholderia pseudomallei 1026b chromosome 1 complete sequence	4092218	4026	1	pseudomallei	GCF_000959125.1_ASM95912v1
+2	NZ_CP004380.1	Burkholderia pseudomallei 1026b chromosome 2 complete sequence	3145454	2942	2	pseudomallei	GCF_000959125.1_ASM95912v1
+2	NZ_CP009209.1	Burkholderia pseudomallei strain BDP chromosome 1 complete sequence	4056147	3943	1	pseudomallei	GCF_000755765.1_ASM75576v1
+2	NZ_CP009210.1	Burkholderia pseudomallei strain BDP chromosome 2 complete sequence	3386014	3125	2	pseudomallei	GCF_000755765.1_ASM75576v1
+2	NZ_CP013417.1	Burkholderia sp. MSMB0266 chromosome 1 complete sequence	4228278	3791	1	sp.	GCF_001524445.2_ASM152444v2
+2	NZ_CP013418.1	Burkholderia sp. MSMB0266 chromosome 2 complete sequence	2824254	2393	2	sp.	GCF_001524445.2_ASM152444v2
+2	NZ_CP013419.1	Burkholderia sp. MSMB0266 plasmid pMSMB0266 complete sequence	375023	299	p	sp.	GCF_001524445.2_ASM152444v2
+2	NZ_CP037970.1	Burkholderia pseudomallei strain BPs123 chromosome 1 complete sequence	3855598	3769	1	pseudomallei	GCF_004367685.1_ASM436768v1
+2	NZ_CP037969.1	Burkholderia pseudomallei strain BPs123 chromosome 2 complete sequence	3119419	2900	2	pseudomallei	GCF_004367685.1_ASM436768v1
+0	NC_008060.1	Burkholderia cenocepacia AU 1054 chromosome 1 complete sequence	3294563	2955	1	cenocepacia	GCF_000014085.1_ASM1408v1
+0	NC_008061.1	Burkholderia cenocepacia AU 1054 chromosome 2 complete sequence	2788459	2472	2	cenocepacia	GCF_000014085.1_ASM1408v1
+0	NC_008062.1	Burkholderia cenocepacia AU 1054 chromosome 3 complete sequence	1196094	1042	3	cenocepacia	GCF_000014085.1_ASM1408v1
+2	NZ_CP038805.1	Burkholderia pseudomallei strain HNBP001 chromosome 1 complete sequence	3800466	3752	1	pseudomallei	GCF_004842085.1_ASM484208v1
+2	NZ_CP038806.1	Burkholderia pseudomallei strain HNBP001 chromosome 2	3363129	3203	2	pseudomallei	GCF_004842085.1_ASM484208v1
+2	NZ_CP018402.1	Burkholderia pseudomallei strain 2013746877 chromosome 1 complete sequence	3267789	3019	2	pseudomallei	GCF_002111245.1_ASM211124v1
+2	NZ_CP018403.1	Burkholderia pseudomallei strain 2013746877 chromosome 2 complete sequence	4062501	3905	1	pseudomallei	GCF_002111245.1_ASM211124v1
+2	NZ_CP004381.1	Burkholderia thailandensis E254 chromosome 1 complete sequence	3805980	3439	1	thailandensis	GCF_000765375.1_ASM76537v1
+2	NZ_CP004382.1	Burkholderia thailandensis E254 chromosome 2 complete sequence	2870750	2403	2	thailandensis	GCF_000765375.1_ASM76537v1
+2	NZ_CP018382.1	Burkholderia pseudomallei strain 2008724758 chromosome 1 complete sequence	3248554	3012	2	pseudomallei	GCF_002111365.1_ASM211136v1
+2	NZ_CP018383.1	Burkholderia pseudomallei strain 2008724758 chromosome 2 complete sequence	4135235	4014	1	pseudomallei	GCF_002111365.1_ASM211136v1
+2	NC_018527.1	Burkholderia pseudomallei BPC006 chromosome I complete sequence	4001777	3896	1	pseudomallei	GCF_000294635.1_ASM29463v1
+2	NC_018529.1	Burkholderia pseudomallei BPC006 chromosome II complete sequence	3153284	2989	2	pseudomallei	GCF_000294635.1_ASM29463v1
+3	NZ_CP021067.1	Burkholderia cenocepacia strain PC184 Mulks chromosome 1 complete sequence	2856344	2492	2	cenocepacia	GCF_003076415.1_ASM307641v1
+3	NZ_CP021068.1	Burkholderia cenocepacia strain PC184 Mulks chromosome 2 complete sequence	713299	602	3	cenocepacia	GCF_003076415.1_ASM307641v1
+3	NZ_CP021069.1	Burkholderia cenocepacia strain PC184 Mulks chromosome 3 complete sequence	3497405	3141	1	cenocepacia	GCF_003076415.1_ASM307641v1
+2	NZ_CP038224.1	Burkholderia pseudomallei strain Yap2a chromosome 1 complete sequence	3931555	3866	1	pseudomallei	GCF_008728355.1_ASM872835v1
+2	NZ_CP038225.1	Burkholderia pseudomallei strain Yap2a chromosome 2 complete sequence	3167882	2979	2	pseudomallei	GCF_008728355.1_ASM872835v1
+2	NZ_CP009298.1	Burkholderia pseudomallei 406e chromosome 1 complete sequence	4055060	3932	1	pseudomallei	GCF_000959145.1_ASM95914v1
+2	NZ_CP009297.1	Burkholderia pseudomallei 406e chromosome 2 complete sequence	3216446	2991	2	pseudomallei	GCF_000959145.1_ASM95914v1
+0	NZ_CP013433.1	Burkholderia vietnamiensis strain AU1233 chromosome 1 complete sequence	5577538	4898	1	vietnamiensis	GCF_001718775.1_ASM171877v1
+0	NZ_CP013434.1	Burkholderia vietnamiensis strain AU1233 chromosome 2 complete sequence	1257529	1029	2	vietnamiensis	GCF_001718775.1_ASM171877v1
+2	NZ_CP016636.1	Burkholderia pseudomallei strain MS chromosome 1 complete sequence	4059297	3879	1	pseudomallei	GCF_001695735.1_ASM169573v1
+2	NZ_CP016637.1	Burkholderia pseudomallei strain MS chromosome 2 complete sequence	3254339	2995	2	pseudomallei	GCF_001695735.1_ASM169573v1
+3	NZ_CP009795.1	Burkholderia dolosa AU0158 chromosome 1 complete sequence	3406596	3076	1	dolosa	GCF_000959505.1_ASM95950v1
+3	NZ_CP009793.1	Burkholderia dolosa AU0158 chromosome 2 complete sequence	2168075	1867	2	dolosa	GCF_000959505.1_ASM95950v1
+3	NZ_CP009794.1	Burkholderia dolosa AU0158 chromosome 3 complete sequence	834424	673	3	dolosa	GCF_000959505.1_ASM95950v1
+2	NZ_CP004383.1	Burkholderia thailandensis USAMRU Malaysia #20 chromosome 1 complete sequence	3862646	3533	1	thailandensis	GCF_000706745.1_ASM70674v1
+2	NZ_CP004384.1	Burkholderia thailandensis USAMRU Malaysia #20 chromosome 2 complete sequence	2821713	2333	2	thailandensis	GCF_000706745.1_ASM70674v1
+2	NZ_CP022005.1	Burkholderia gladioli pv. gladioli strain KACC 11889 chromosome 1 complete sequence	4668350	3976	1	gladioli	GCF_002208175.1_ASM220817v1
+2	NZ_CP022006.1	Burkholderia gladioli pv. gladioli strain KACC 11889 chromosome 2 complete sequence	3922845	3044	2	gladioli	GCF_002208175.1_ASM220817v1
+2	NZ_CP022007.1	Burkholderia gladioli pv. gladioli strain KACC 11889 plasmid pls1 complete sequence	210524	178	p	gladioli	GCF_002208175.1_ASM220817v1
+2	NZ_CP022008.1	Burkholderia gladioli pv. gladioli strain KACC 11889 plasmid pls2 complete sequence	26639	16	p	gladioli	GCF_002208175.1_ASM220817v1
+2	NZ_CP022009.1	Burkholderia gladioli pv. gladioli strain KACC 11889 plasmid pls3 complete sequence	26479	7	p	gladioli	GCF_002208175.1_ASM220817v1
+2	NZ_CP009642.1	Burkholderia mallei strain India86-567-2 chromosome I complete sequence	3560434	3577	1	mallei	GCF_000959465.1_ASM95946v1
+2	NZ_CP009643.1	Burkholderia mallei strain India86-567-2 chromosome II complete sequence	2126012	2082	2	mallei	GCF_000959465.1_ASM95946v1
+3	NZ_CP007781.1	Burkholderia cenocepacia strain DWS 37E-2 chromosome 1 complete sequence	3241886	2913	1	cenocepacia	GCF_000764955.1_ASM76495v1
+3	NZ_CP007780.1	Burkholderia cenocepacia strain DWS 37E-2 chromosome 2 complete sequence	2375865	2016	2	cenocepacia	GCF_000764955.1_ASM76495v1
+3	NZ_CP007779.1	Burkholderia cenocepacia strain DWS 37E-2 chromosome 3 complete sequence	994670	830	3	cenocepacia	GCF_000764955.1_ASM76495v1
+3	NZ_CP013435.1	Burkholderia latens strain AU17928 chromosome 1 complete sequence	3331737	3030	1	latens	GCF_001718795.1_ASM171879v1
+3	NZ_CP013438.1	Burkholderia latens strain AU17928 chromosome 2 complete sequence	2339576	1996	2	latens	GCF_001718795.1_ASM171879v1
+3	NZ_CP013437.1	Burkholderia latens strain AU17928 chromosome 3 complete sequence	897684	751	3	latens	GCF_001718795.1_ASM171879v1
+3	NZ_CP013436.1	Burkholderia latens strain AU17928 plasmid pAU17928 complete sequence	45481	43	p	latens	GCF_001718795.1_ASM171879v1
+2	NC_021173.1	Burkholderia thailandensis MSMB121 chromosome 1 complete sequence	3967794	3613	1	thailandensis	GCF_000385525.1_ASM38552v1
+2	NC_021174.1	Burkholderia thailandensis MSMB121 chromosome 2 complete sequence	2763585	2231	2	thailandensis	GCF_000385525.1_ASM38552v1
+2	NC_021877.1	Burkholderia pseudomallei MSHR305 chromosome 2 complete sequence	3373917	3119	2	pseudomallei	GCF_000439695.1_ASM43969v1
+2	NC_021884.1	Burkholderia pseudomallei MSHR305 chromosome 1 complete sequence	4054155	3987	1	pseudomallei	GCF_000439695.1_ASM43969v1
+3	NZ_CP014306.1	Burkholderia sp. PAMC 26561 chromosome 1 complete sequence	3397021	3002	1	sp.	GCF_001557535.2_ASM155753v2
+3	NZ_CP014307.1	Burkholderia sp. PAMC 26561 chromosome 2 complete sequence	1611937	1418	2	sp.	GCF_001557535.2_ASM155753v2
+3	NZ_CP014315.1	Burkholderia sp. PAMC 26561 chromosome 3 complete sequence	1623425	1414	3	sp.	GCF_001557535.2_ASM155753v2
+3	NZ_CP014308.1	Burkholderia sp. PAMC 26561 plasmid unnamed1 complete sequence	793818	643	p	sp.	GCF_001557535.2_ASM155753v2
+3	NZ_CP014309.1	Burkholderia sp. PAMC 26561 plasmid unnamed2 complete sequence	793876	655	p	sp.	GCF_001557535.2_ASM155753v2
+3	NZ_CP014310.1	Burkholderia sp. PAMC 26561 plasmid unnamed3 complete sequence	601076	449	p	sp.	GCF_001557535.2_ASM155753v2
+3	NZ_CP014311.1	Burkholderia sp. PAMC 26561 plasmid unnamed4 complete sequence	184640	174	p	sp.	GCF_001557535.2_ASM155753v2
+3	NZ_CP014312.1	Burkholderia sp. PAMC 26561 plasmid unnamed5 complete sequence	49551	43	p	sp.	GCF_001557535.2_ASM155753v2
+3	NZ_CP013467.1	Burkholderia multivorans strain MSMB1640WGS chromosome 1 complete sequence	3451669	3152	1	multivorans	GCF_001718995.1_ASM171899v1
+3	NZ_CP013466.1	Burkholderia multivorans strain MSMB1640WGS chromosome 2 complete sequence	2493865	2166	2	multivorans	GCF_001718995.1_ASM171899v1
+3	NZ_CP013468.1	Burkholderia multivorans strain MSMB1640WGS chromosome 3 complete sequence	899828	795	3	multivorans	GCF_001718995.1_ASM171899v1
+2	NZ_CP008894.1	Burkholderia pseudomallei HBPUB10303a chromosome 1 complete sequence	3984054	3887	1	pseudomallei	GCF_000755905.1_ASM75590v1
+2	NZ_CP008893.1	Burkholderia pseudomallei HBPUB10303a chromosome 2 complete sequence	3194122	2982	2	pseudomallei	GCF_000755905.1_ASM75590v1
+2	NC_022659.1	Burkholderia pseudomallei NCTC 13179 chromosome 1 complete sequence	3997089	3797	1	pseudomallei	GCF_000494855.1_ASM49485v1
+2	NC_022658.1	Burkholderia pseudomallei NCTC 13179 chromosome 2 complete sequence	3340068	3091	2	pseudomallei	GCF_000494855.1_ASM49485v1
+2	NZ_CP008758.1	Burkholderia pseudomallei strain 1106a chromosome 1 complete sequence	3984293	3867	1	pseudomallei	GCF_000756145.1_ASM75614v1
+2	NZ_CP008759.1	Burkholderia pseudomallei strain 1106a chromosome 2 complete sequence	3102140	2942	2	pseudomallei	GCF_000756145.1_ASM75614v1
+2	NZ_CP022213.1	Burkholderia gladioli pv. gladioli strain FDAARGOS_188 chromosome 1 complete sequence	4668533	4023	1	gladioli	GCF_003613595.1_ASM361359v1
+2	NZ_CP022210.1	Burkholderia gladioli pv. gladioli strain FDAARGOS_188 chromosome 2 complete sequence	3923011	3081	2	gladioli	GCF_003613595.1_ASM361359v1
+2	NZ_CP022209.1	Burkholderia gladioli pv. gladioli strain FDAARGOS_188 plasmid unnamed1 complete sequence	210568	196	p	gladioli	GCF_003613595.1_ASM361359v1
+2	NZ_CP022211.1	Burkholderia gladioli pv. gladioli strain FDAARGOS_188 plasmid unnamed2 complete sequence	26710	33	p	gladioli	GCF_003613595.1_ASM361359v1
+2	NZ_CP022212.1	Burkholderia gladioli pv. gladioli strain FDAARGOS_188 plasmid unnamed3 complete sequence	63719	59	p	gladioli	GCF_003613595.1_ASM361359v1
+2	NZ_CP022214.1	Burkholderia thailandensis strain FDAARGOS_241 chromosome 1 complete sequence	3862564	3453	1	thailandensis	GCF_003614815.1_ASM361481v1
+2	NZ_CP022215.1	Burkholderia thailandensis strain FDAARGOS_241 chromosome 2 complete sequence	2821560	2271	2	thailandensis	GCF_003614815.1_ASM361481v1
+2	NC_009080.1	Burkholderia mallei NCTC 10247 chromosome I complete sequence	3495687	3431	1	mallei	GCF_000015625.1_ASM1562v1
+2	NC_009079.1	Burkholderia mallei NCTC 10247 chromosome II complete sequence	2352693	2287	2	mallei	GCF_000015625.1_ASM1562v1
+2	NZ_CP038214.1	Burkholderia pseudomallei strain Yap6 chromosome 1 complete sequence	3932929	3864	1	pseudomallei	GCF_008728255.1_ASM872825v1
+2	NZ_CP038215.1	Burkholderia pseudomallei strain Yap6 chromosome 2 complete sequence	3171459	2976	2	pseudomallei	GCF_008728255.1_ASM872825v1
+2	NZ_CP038226.1	Burkholderia pseudomallei strain Yap1 chromosome 1 complete sequence	3933317	3870	1	pseudomallei	GCF_008728375.1_ASM872837v1
+2	NZ_CP038227.1	Burkholderia pseudomallei strain Yap1 chromosome 2 complete sequence	3208533	3015	2	pseudomallei	GCF_008728375.1_ASM872837v1
+3	NZ_CP028807.1	Burkholderia contaminans strain SK875 chromosome SK875-1 complete sequence	3618903	3266	1	contaminans	GCF_009191525.1_ASM919152v1
+3	NZ_CP028808.1	Burkholderia contaminans strain SK875 chromosome SK875-2 complete sequence	3247714	2812	2	contaminans	GCF_009191525.1_ASM919152v1
+3	NZ_CP028809.1	Burkholderia contaminans strain SK875 chromosome SK875-3 complete sequence	1528467	1287	3	contaminans	GCF_009191525.1_ASM919152v1
+3	NZ_CP028810.1	Burkholderia contaminans strain SK875 plasmid p875 complete sequence	200961	199	p	contaminans	GCF_009191525.1_ASM919152v1
+2	NZ_CP009737.1	Burkholderia mallei strain Turkey7 chromosome 1 complete sequence	3578566	3522	1	mallei	GCF_002346145.1_ASM234614v1
+2	NZ_CP009738.1	Burkholderia mallei strain Turkey7 chromosome 2 complete sequence	2146721	2085	2	mallei	GCF_002346145.1_ASM234614v1
+2	NZ_CP013386.1	Burkholderia sp. BDU6 chromosome 1 complete sequence	3838800	3349	1	sp.	GCF_001523745.2_ASM152374v2
+2	NZ_CP013387.1	Burkholderia sp. BDU6 chromosome 2 complete sequence	2752114	2236	2	sp.	GCF_001523745.2_ASM152374v2
+3	NZ_CP012981.1	Burkholderia cepacia ATCC 25416 chromosome 1 complete sequence	3791734	3454	1	cepacia	GCF_001411495.1_ASM141149v1
+3	NZ_CP012982.1	Burkholderia cepacia ATCC 25416 chromosome 2 complete sequence	3408190	2970	2	cepacia	GCF_001411495.1_ASM141149v1
+3	NZ_CP012983.1	Burkholderia cepacia ATCC 25416 chromosome 3 complete sequence	1196214	1017	3	cepacia	GCF_001411495.1_ASM141149v1
+3	NZ_CP012984.1	Burkholderia cepacia ATCC 25416 plasmid pBC25416 complete sequence	209807	173	p	cepacia	GCF_001411495.1_ASM141149v1
+2	NZ_CP018400.1	Burkholderia pseudomallei strain 2013746811 chromosome 1 complete sequence	4012048	3825	1	pseudomallei	GCF_002111225.1_ASM211122v1
+2	NZ_CP018401.1	Burkholderia pseudomallei strain 2013746811 chromosome 2 complete sequence	3188810	2923	2	pseudomallei	GCF_002111225.1_ASM211122v1
+3	NZ_CP013439.1	Burkholderia vietnamiensis strain HI2297 chromosome 1 complete sequence	3308896	2965	1	vietnamiensis	GCF_001718815.1_ASM171881v1
+3	NZ_CP013440.1	Burkholderia vietnamiensis strain HI2297 chromosome 2 complete sequence	2215292	1856	2	vietnamiensis	GCF_001718815.1_ASM171881v1
+3	NZ_CP013441.1	Burkholderia vietnamiensis strain HI2297 chromosome 3 complete sequence	1240344	1004	3	vietnamiensis	GCF_001718815.1_ASM171881v1
+3	NZ_CP013384.1	Burkholderia sp. LA-2-3-30-S1-D2 chromosome 1 complete sequence	3445340	3073	1	sp.	GCF_001523915.2_ASM152391v2
+3	NZ_CP013383.1	Burkholderia sp. LA-2-3-30-S1-D2 chromosome 2 complete sequence	2709855	2371	2	sp.	GCF_001523915.2_ASM152391v2
+3	NZ_CP013385.1	Burkholderia sp. LA-2-3-30-S1-D2 chromosome 3 complete sequence	974331	829	3	sp.	GCF_001523915.2_ASM152391v2
+2	NZ_CP010348.1	Burkholderia mallei strain Turkey10 chromosome 1 complete sequence	3623703	3542	1	mallei	GCF_002346005.1_ASM234600v1
+2	NZ_CP010349.1	Burkholderia mallei strain Turkey10 chromosome 2 complete sequence	2105279	2087	2	mallei	GCF_002346005.1_ASM234600v1
+2	NZ_CP009151.1	Burkholderia pseudomallei B03 chromosome 1 complete sequence	4008750	3864	1	pseudomallei	GCF_000770455.1_ASM77045v1
+2	NZ_CP009150.1	Burkholderia pseudomallei B03 chromosome 2 complete sequence	3256009	3048	2	pseudomallei	GCF_000770455.1_ASM77045v1
+2	NZ_CP012517.1	Burkholderia pseudomallei strain vgh16W chromosome 1 complete sequence	4038845	3913	1	pseudomallei	GCF_001277895.1_ASM127789v1
+2	NZ_CP012518.1	Burkholderia pseudomallei strain vgh16W chromosome 2 complete sequence	3227965	2954	2	pseudomallei	GCF_001277895.1_ASM127789v1
+2	NZ_CP037760.1	Burkholderia pseudomallei strain BPs116 chromosome 1 complete sequence	3850633	3747	1	pseudomallei	GCF_004348075.1_ASM434807v1
+2	NZ_CP037759.1	Burkholderia pseudomallei strain BPs116 chromosome 2 complete sequence	3069583	2846	2	pseudomallei	GCF_004348075.1_ASM434807v1
+2	NZ_CP018380.1	Burkholderia pseudomallei strain 2008724734 chromosome 1 complete sequence	4195298	4085	1	pseudomallei	GCF_002110945.1_ASM211094v1
+2	NZ_CP018381.1	Burkholderia pseudomallei strain 2008724734 chromosome 2 complete sequence	3287088	3041	2	pseudomallei	GCF_002110945.1_ASM211094v1
+3	NZ_CP034553.1	Burkholderia cepacia ATCC 25416 chromosome 1 complete sequence	3781435	3477	1	cepacia	GCF_006094315.1_ASM609431v1
+3	NZ_CP034554.1	Burkholderia cepacia ATCC 25416 chromosome 2 complete sequence	3396958	2977	2	cepacia	GCF_006094315.1_ASM609431v1
+3	NZ_CP034555.1	Burkholderia cepacia ATCC 25416 chromosome 3 complete sequence	1187977	1024	3	cepacia	GCF_006094315.1_ASM609431v1
+3	NZ_CP034556.1	Burkholderia cepacia ATCC 25416 plasmid unnamed1 complete sequence	204170	172	p	cepacia	GCF_006094315.1_ASM609431v1
+3	NZ_CP034557.1	Burkholderia cepacia ATCC 25416 plasmid unnamed2 complete sequence	3849	4	p	cepacia	GCF_006094315.1_ASM609431v1
+3	NZ_CP009798.1	Burkholderia ambifaria AMMD chromosome 1 complete sequence	3556555	3198	1	ambifaria	GCF_000959545.1_ASM95954v1
+3	NZ_CP009799.1	Burkholderia ambifaria AMMD chromosome 2 complete sequence	2646970	2315	2	ambifaria	GCF_000959545.1_ASM95954v1
+3	NZ_CP009800.1	Burkholderia ambifaria AMMD chromosome 3 complete sequence	1281472	997	3	ambifaria	GCF_000959545.1_ASM95954v1
+3	NZ_CP009797.1	Burkholderia ambifaria AMMD plasmid pBII_1 complete sequence	43581	45	p	ambifaria	GCF_000959545.1_ASM95954v1
+2	NZ_CP018408.1	Burkholderia pseudomallei strain 2013833057 chromosome 1 complete sequence	4077668	3907	1	pseudomallei	GCF_002111265.1_ASM211126v1
+2	NZ_CP018409.1	Burkholderia pseudomallei strain 2013833057 chromosome 2 complete sequence	3265934	3034	2	pseudomallei	GCF_002111265.1_ASM211126v1
+2	NC_012724.2	Burkholderia glumae BGR1 chromosome 1 complete sequence	3906507	3502	1	glumae	GCF_000022645.2_ASM2264v1
+2	NC_012721.2	Burkholderia glumae BGR1 chromosome 2 complete sequence	2827333	2189	2	glumae	GCF_000022645.2_ASM2264v1
+2	NC_012723.1	Burkholderia glumae BGR1 plasmid bglu_1p complete sequence	133591	119	p	glumae	GCF_000022645.2_ASM2264v1
+2	NC_012718.1	Burkholderia glumae BGR1 plasmid bglu_2p complete sequence	141792	107	p	glumae	GCF_000022645.2_ASM2264v1
+2	NC_012720.2	Burkholderia glumae BGR1 plasmid bglu_3p complete sequence	141067	118	p	glumae	GCF_000022645.2_ASM2264v1
+2	NC_012725.2	Burkholderia glumae BGR1 plasmid bglu_4p complete sequence	134346	116	p	glumae	GCF_000022645.2_ASM2264v1
+2	NZ_CP025304.1	Burkholderia pseudomallei strain R15 chromosome R15.1 complete sequence	4066496	3900	1	pseudomallei	GCF_003547015.1_ASM354701v1
+2	NZ_CP025305.1	Burkholderia pseudomallei strain R15 chromosome R15.2 complete sequence	3112891	2840	2	pseudomallei	GCF_003547015.1_ASM354701v1
+3	NZ_CP033748.1	Burkholderia multivorans strain FDAARGOS_547 chromosome 1 complete sequence	2331436	2028	2	multivorans	GCF_003812365.1_ASM381236v1
+3	NZ_CP033749.1	Burkholderia multivorans strain FDAARGOS_547 chromosome 2 complete sequence	705748	614	3	multivorans	GCF_003812365.1_ASM381236v1
+3	NZ_CP033750.1	Burkholderia multivorans strain FDAARGOS_547 chromosome 3 complete sequence	3356899	3115	1	multivorans	GCF_003812365.1_ASM381236v1
+2	NZ_CP018371.1	Burkholderia pseudomallei strain 2002721171 chromosome 1 complete sequence	3144330	2925	2	pseudomallei	GCF_002111345.1_ASM211134v1
+2	NZ_CP018372.1	Burkholderia pseudomallei strain 2002721171 chromosome 2 complete sequence	4046807	3916	1	pseudomallei	GCF_002111345.1_ASM211134v1
+3	NZ_AP018111.1	Burkholderia stabilis DNA chromosome: 1 complete genome strain: FERMP-21014	3625611	3232	1	stabilis	GCF_002356275.1_ASM235627v1
+3	NZ_AP018112.1	Burkholderia stabilis DNA chromosome: 2 complete genome strain: FERMP-21014	3163229	2754	2	stabilis	GCF_002356275.1_ASM235627v1
+3	NZ_AP018113.1	Burkholderia stabilis DNA chromosome: 3 complete genome strain: FERMP-21014	932264	784	3	stabilis	GCF_002356275.1_ASM235627v1
+2	NZ_CP038195.1	Burkholderia pseudomallei strain BPs122 chromosome 1 complete sequence	3866281	3788	1	pseudomallei	GCF_004526325.1_ASM452632v1
+2	NZ_CP038194.1	Burkholderia pseudomallei strain BPs122 chromosome 2 complete sequence	3120072	2919	2	pseudomallei	GCF_004526325.1_ASM452632v1
+2	NZ_CP014578.1	Burkholderia sp. OLGA172 chromosome 1 complete sequence	4646070	3936	1	sp.	GCF_001634365.1_ASM163436v1
+2	NZ_CP014579.1	Burkholderia sp. OLGA172 chromosome 2 complete sequence	3497621	2914	2	sp.	GCF_001634365.1_ASM163436v1
+2	NZ_CP014580.1	Burkholderia sp. OLGA172 plasmid pOLGA1 complete sequence	271008	261	p	sp.	GCF_001634365.1_ASM163436v1
+2	NZ_CP014581.1	Burkholderia sp. OLGA172 plasmid pOLGA2 complete sequence	137323	151	p	sp.	GCF_001634365.1_ASM163436v1
+2	NZ_CP014582.1	Burkholderia sp. OLGA172 plasmid pOLGA3 complete sequence	22868	26	p	sp.	GCF_001634365.1_ASM163436v1
+0	NZ_CP015036.1	Burkholderia cenocepacia strain 895 chromosome 1 complete sequence	7459003	6792	1	cenocepacia	GCF_001606135.1_ASM160613v1
+0	NZ_CP015037.1	Burkholderia cenocepacia strain 895 chromosome 2 complete sequence	1072666	943	2	cenocepacia	GCF_001606135.1_ASM160613v1
+0	NZ_CP015038.1	Burkholderia cenocepacia strain 895 plasmid pBcp895-1 complete sequence	199812	177	p	cenocepacia	GCF_001606135.1_ASM160613v1
+3	NZ_CP013463.1	Burkholderia ubonensis strain MSMB1471WGS chromosome 1 complete sequence	3531036	3180	1	ubonensis	GCF_001718975.1_ASM171897v1
+3	NZ_CP013464.1	Burkholderia ubonensis strain MSMB1471WGS chromosome 2 complete sequence	3094056	2669	2	ubonensis	GCF_001718975.1_ASM171897v1
+3	NZ_CP013465.1	Burkholderia ubonensis strain MSMB1471WGS chromosome 3 complete sequence	824232	627	3	ubonensis	GCF_001718975.1_ASM171897v1
+3	NZ_CP013462.1	Burkholderia ubonensis strain MSMB1471WGS plasmid pMSMB1471 complete sequence	14087	15	p	ubonensis	GCF_001718975.1_ASM171897v1
+3	NZ_CP009631.1	Burkholderia vietnamiensis LMG 10929 chromosome I complete sequence	3317416	2935	1	vietnamiensis	GCF_000959445.1_ASM95944v1
+3	NZ_CP009630.1	Burkholderia vietnamiensis LMG 10929 chromosome II complete sequence	2262093	1900	2	vietnamiensis	GCF_000959445.1_ASM95944v1
+3	NZ_CP009632.1	Burkholderia vietnamiensis LMG 10929 chromosome III complete sequence	1248367	1017	3	vietnamiensis	GCF_000959445.1_ASM95944v1
+3	NZ_CP009629.1	Burkholderia vietnamiensis LMG 10929 plasmid pBVB_1 complete sequence	102620	97	p	vietnamiensis	GCF_000959445.1_ASM95944v1
+3	NZ_CP009743.1	Burkholderia contaminans strain MS14 chromosome 1 complete sequence	3522585	3093	1	contaminans	GCF_001029145.1_ASM102914v1
+3	NZ_CP009744.1	Burkholderia contaminans strain MS14 chromosome 2 complete sequence	3358952	3027	2	contaminans	GCF_001029145.1_ASM102914v1
+3	NZ_CP009745.1	Burkholderia contaminans strain MS14 chromosome 3 complete sequence	1627712	1381	3	contaminans	GCF_001029145.1_ASM102914v1
+3	NZ_HG938370.1	Burkholderia cenocepacia H111 chromosome 1 complete genome	3572953	3303	1	cenocepacia	GCF_000236215.2_ASM23621v4
+3	NZ_HG938371.1	Burkholderia cenocepacia H111 chromosome 2 complete genome	3102677	2743	2	cenocepacia	GCF_000236215.2_ASM23621v4
+3	NZ_HG938372.1	Burkholderia cenocepacia H111 chromosome 3 complete genome	1039263	909	3	cenocepacia	GCF_000236215.2_ASM23621v4
+3	NZ_CP024902.1	Burkholderia pyrrocinia strain mHSR5 chromosome mHSR5_A complete sequence	3619008	3302	1	pyrrocinia	GCF_003330765.1_ASM333076v1
+3	NZ_CP024903.1	Burkholderia pyrrocinia strain mHSR5 chromosome mHSR5_B complete sequence	3400486	2958	2	pyrrocinia	GCF_003330765.1_ASM333076v1
+3	NZ_CP024904.1	Burkholderia pyrrocinia strain mHSR5 chromosome mHSR5_C complete sequence	984905	828	3	pyrrocinia	GCF_003330765.1_ASM333076v1
+2	NC_006350.1	Burkholderia pseudomallei K96243 chromosome 1 complete sequence	4074542	3398	1	pseudomallei	GCF_000011545.1_ASM1154v1
+2	NC_006351.1	Burkholderia pseudomallei K96243 chromosome 2 complete sequence	3173005	2328	2	pseudomallei	GCF_000011545.1_ASM1154v1
+2	NZ_CP004377.1	Burkholderia pseudomallei NAU35A-3 chromosome 1 complete sequence	3955135	3797	1	pseudomallei	GCF_000764575.1_ASM76457v1
+2	NZ_CP004378.1	Burkholderia pseudomallei NAU35A-3 chromosome 2 complete sequence	3248948	3043	2	pseudomallei	GCF_000764575.1_ASM76457v1
+2	NZ_CP036452.1	Burkholderia pseudomallei strain BPs110 chromosome 1 complete sequence	3859639	3771	1	pseudomallei	GCF_004323015.1_ASM432301v1
+2	NZ_CP036451.1	Burkholderia pseudomallei strain BPs110 chromosome 2 complete sequence	3102688	2899	2	pseudomallei	GCF_004323015.1_ASM432301v1
+2	NZ_CP018398.1	Burkholderia pseudomallei strain 2013746777 chromosome 1 complete sequence	3078985	2851	2	pseudomallei	GCF_002111205.1_ASM211120v1
+2	NZ_CP018399.1	Burkholderia pseudomallei strain 2013746777 chromosome 2 complete sequence	4191510	4077	1	pseudomallei	GCF_002111205.1_ASM211120v1
+2	NZ_CP037974.1	Burkholderia pseudomallei strain BPs114 chromosome 1 complete sequence	3842045	3756	1	pseudomallei	GCF_004367665.1_ASM436766v1
+2	NZ_CP037973.1	Burkholderia pseudomallei strain BPs114 chromosome 2 complete sequence	3099454	2880	2	pseudomallei	GCF_004367665.1_ASM436766v1
+3	NZ_CP013443.1	Burkholderia cepacia strain MSMB1184WGS chromosome 1 complete sequence	3750729	3342	1	cepacia	GCF_001718835.1_ASM171883v1
+3	NZ_CP013444.1	Burkholderia cepacia strain MSMB1184WGS chromosome 2 complete sequence	3417004	2828	2	cepacia	GCF_001718835.1_ASM171883v1
+3	NZ_CP013442.1	Burkholderia cepacia strain MSMB1184WGS chromosome 3 complete sequence	835898	635	3	cepacia	GCF_001718835.1_ASM171883v1
+2	NZ_CP038222.1	Burkholderia pseudomallei strain Yap3a chromosome 1 complete sequence	3933419	3863	1	pseudomallei	GCF_008728335.1_ASM872833v1
+2	NZ_CP038223.1	Burkholderia pseudomallei strain Yap3a chromosome 2 complete sequence	3169063	2976	2	pseudomallei	GCF_008728335.1_ASM872833v1
+2	NZ_CP025306.1	Burkholderia pseudomallei strain D286 chromosome 1 complete sequence	3987008	3820	1	pseudomallei	GCF_003547035.1_ASM354703v1
+2	NZ_CP025307.1	Burkholderia pseudomallei strain D286 chromosome 2 complete sequence	3115305	2894	2	pseudomallei	GCF_003547035.1_ASM354703v1
+2	NZ_CP009323.1	Burkholderia gladioli strain ATCC 10248 chromosome 1 complete sequence	4668573	4018	1	gladioli	GCF_000959725.1_ASM95972v1
+2	NZ_CP009321.1	Burkholderia gladioli strain ATCC 10248 plasmid 1 complete sequence	213090	199	p	gladioli	GCF_000959725.1_ASM95972v1
+2	NZ_CP009322.1	Burkholderia gladioli strain ATCC 10248 chromosome 2 complete sequence	3927513	3080	2	gladioli	GCF_000959725.1_ASM95972v1
+2	NZ_CP009320.1	Burkholderia gladioli strain ATCC 10248 plasmid 2 complete sequence	63573	58	p	gladioli	GCF_000959725.1_ASM95972v1
+2	NZ_CP009319.1	Burkholderia gladioli strain ATCC 10248 plasmid 3 complete sequence	26710	31	p	gladioli	GCF_000959725.1_ASM95972v1
+2	NZ_CP018387.1	Burkholderia pseudomallei strain 2010007509 chromosome 1 complete sequence	4047168	3870	1	pseudomallei	GCF_002111145.1_ASM211114v1
+2	NZ_CP018388.1	Burkholderia pseudomallei strain 2010007509 chromosome 2 complete sequence	3138916	2929	2	pseudomallei	GCF_002111145.1_ASM211114v1
+3	NC_010084.1	Burkholderia multivorans ATCC 17616 chromosome 1 complete sequence	3448466	3201	1	multivorans	GCF_000018505.1_ASM1850v1
+3	NC_010086.1	Burkholderia multivorans ATCC 17616 chromosome 2 complete sequence	2472928	2208	2	multivorans	GCF_000018505.1_ASM1850v1
+3	NC_010087.1	Burkholderia multivorans ATCC 17616 chromosome 3 complete sequence	919806	825	3	multivorans	GCF_000018505.1_ASM1850v1
+3	NC_010070.1	Burkholderia multivorans ATCC 17616 plasmid pBMUL01 complete sequence	167422	163	p	multivorans	GCF_000018505.1_ASM1850v1
+2	NC_009076.1	Burkholderia pseudomallei 1106a chromosome I complete sequence	3988455	3889	1	pseudomallei	GCF_000015925.1_ASM1592v1
+2	NC_009078.1	Burkholderia pseudomallei 1106a chromosome II complete sequence	3100794	2941	2	pseudomallei	GCF_000015925.1_ASM1592v1
+2	NZ_CP004117.1	Burkholderia thailandensis E444 chromosome 1 complete sequence	3799595	3455	1	thailandensis	GCF_000567945.1_ASM56794v1
+2	NZ_CP004118.1	Burkholderia thailandensis E444 chromosome 2 complete sequence	2852101	2363	2	thailandensis	GCF_000567945.1_ASM56794v1
+3	NZ_CP013450.1	Burkholderia cenocepacia strain MSMB384WGS chromosome 1 complete sequence	3588848	3309	1	cenocepacia	GCF_001718895.1_ASM171889v1
+3	NZ_CP013452.1	Burkholderia cenocepacia strain MSMB384WGS chromosome 2 complete sequence	3069864	2758	2	cenocepacia	GCF_001718895.1_ASM171889v1
+3	NZ_CP013451.1	Burkholderia cenocepacia strain MSMB384WGS chromosome 3 complete sequence	1121886	972	3	cenocepacia	GCF_001718895.1_ASM171889v1
+2	NZ_CP008781.1	Burkholderia pseudomallei strain Mahidol-1106a chromosome 1 complete sequence	3985223	3881	1	pseudomallei	GCF_000756125.1_ASM75612v1
+2	NZ_CP008782.1	Burkholderia pseudomallei strain Mahidol-1106a chromosome 2 complete sequence	3100174	2949	2	pseudomallei	GCF_000756125.1_ASM75612v1
+2	NZ_CP033705.1	Burkholderia pseudomallei strain FDAARGOS_592 chromosome 1 complete sequence	4007610	3941	1	pseudomallei	GCF_003798265.1_ASM379826v1
+2	NZ_CP033706.1	Burkholderia pseudomallei strain FDAARGOS_592 chromosome 2 complete sequence	3139076	2963	2	pseudomallei	GCF_003798265.1_ASM379826v1
+3	NZ_CP024943.1	Burkholderia lata strain A05 chromosome 1 complete sequence	3927314	3588	1	lata	GCF_003711145.1_ASM371114v1
+3	NZ_CP024944.1	Burkholderia lata strain A05 chromosome 2 complete sequence	3706323	3274	2	lata	GCF_003711145.1_ASM371114v1
+3	NZ_CP024945.1	Burkholderia lata strain A05 chromosome 3 complete sequence	1153372	1000	3	lata	GCF_003711145.1_ASM371114v1
+2	NZ_CP018416.1	Burkholderia pseudomallei strain 3000465972 chromosome 1 complete sequence	4121864	3998	1	pseudomallei	GCF_002111305.1_ASM211130v1
+2	NZ_CP018417.1	Burkholderia pseudomallei strain 3000465972 chromosome 2 complete sequence	3306540	3099	2	pseudomallei	GCF_002111305.1_ASM211130v1
+2	NZ_CP018373.1	Burkholderia pseudomallei strain 2002721184 chromosome 1 complete sequence	4121819	3974	1	pseudomallei	GCF_002111085.1_ASM211108v1
+2	NZ_CP018374.1	Burkholderia pseudomallei strain 2002721184 chromosome 2 complete sequence	3260317	3044	2	pseudomallei	GCF_002111085.1_ASM211108v1
+3	NZ_CP013398.1	Burkholderia seminalis strain FL-5-4-10-S1-D7 chromosome 1 complete sequence	3505262	3143	1	seminalis	GCF_001718535.1_ASM171853v1
+3	NZ_CP013400.1	Burkholderia seminalis strain FL-5-4-10-S1-D7 chromosome 2 complete sequence	3050136	2684	2	seminalis	GCF_001718535.1_ASM171853v1
+3	NZ_CP013399.1	Burkholderia seminalis strain FL-5-4-10-S1-D7 chromosome 3 complete sequence	1093546	938	3	seminalis	GCF_001718535.1_ASM171853v1
+2	NZ_CP004001.1	Burkholderia pseudomallei NCTC 13178 chromosome 1 complete sequence	4029451	3890	1	pseudomallei	GCF_000511895.1_ASM51189v1
+2	NZ_CP004002.1	Burkholderia pseudomallei NCTC 13178 chromosome 2 complete sequence	3361913	3177	2	pseudomallei	GCF_000511895.1_ASM51189v1
+2	NC_008785.1	Burkholderia mallei SAVP1 chromosome I complete sequence	3497479	3439	1	mallei	GCF_000015465.1_ASM1546v1
+2	NC_008784.1	Burkholderia mallei SAVP1 chromosome II complete sequence	1734922	1678	2	mallei	GCF_000015465.1_ASM1546v1
+2	NZ_CP004368.1	Burkholderia pseudomallei MSHR520 chromosome 1 complete sequence	4059501	3929	1	pseudomallei	GCF_000583835.1_ASM58383v1
+2	NZ_CP004369.1	Burkholderia pseudomallei MSHR520 chromosome 2 complete sequence	3391010	3115	2	pseudomallei	GCF_000583835.1_ASM58383v1
+3	NC_017920.1	Burkholderia sp. KJ006 chromosome 1 complete sequence	3145156	2795	1	sp.	GCF_000262695.1_ASM26269v1
+3	NC_017921.1	Burkholderia sp. KJ006 chromosome 2 complete sequence	2356985	1990	2	sp.	GCF_000262695.1_ASM26269v1
+3	NC_017922.1	Burkholderia sp. KJ006 chromosome 3 complete sequence	1082410	859	3	sp.	GCF_000262695.1_ASM26269v1
+3	NC_017923.1	Burkholderia sp. KJ006 plasmid pKJ006 complete sequence	45361	55	p	sp.	GCF_000262695.1_ASM26269v1
+3	NZ_CP013414.1	Burkholderia ubonensis strain MSMB2035 chromosome 1 complete sequence	3935154	3579	1	ubonensis	GCF_001718655.1_ASM171865v1
+3	NZ_CP013416.1	Burkholderia ubonensis strain MSMB2035 chromosome 2 complete sequence	3000610	2591	2	ubonensis	GCF_001718655.1_ASM171865v1
+3	NZ_CP013415.1	Burkholderia ubonensis strain MSMB2035 plasmid pMSMB2035 complete sequence	299296	258	3	ubonensis	GCF_001718655.1_ASM171865v1
+2	NZ_CP009549.1	Burkholderia sp. 2002721687 chromosome I complete sequence	4067533	3657	1	sp.	GCF_000959325.1_ASM95932v1
+2	NZ_CP009548.1	Burkholderia sp. 2002721687 chromosome II complete sequence	2913181	2435	2	sp.	GCF_000959325.1_ASM95932v1
+2	NZ_CP009547.1	Burkholderia sp. 2002721687 plasmid pBTU complete sequence	305110	244	p	sp.	GCF_000959325.1_ASM95932v1
+2	NZ_CP009337.1	Burkholderia mallei strain 2002734299 chromosome 1 complete sequence	3458247	3421	1	mallei	GCF_000959165.1_ASM95916v1
+2	NZ_CP009338.1	Burkholderia mallei strain 2002734299 chromosome 2 complete sequence	2284094	2189	2	mallei	GCF_000959165.1_ASM95916v1
+2	NZ_CP017175.1	Burkholderia mallei strain Bahrain1 chromosome 1 complete sequence	3553991	3542	1	mallei	GCF_001729545.1_ASM172954v1
+2	NZ_CP017176.1	Burkholderia mallei strain Bahrain1 chromosome 2 complete sequence	2226175	2171	2	mallei	GCF_001729545.1_ASM172954v1
+2	NZ_CP022217.1	Burkholderia thailandensis strain FDAARGOS_242 chromosome 1 complete sequence	3801254	3427	1	thailandensis	GCF_003614835.1_ASM361483v1
+2	NZ_CP022216.1	Burkholderia thailandensis strain FDAARGOS_242 chromosome 2 complete sequence	2852057	2351	2	thailandensis	GCF_003614835.1_ASM361483v1
+2	NZ_CP013407.1	Burkholderia thailandensis strain MSMB59 chromosome 1 complete sequence	3917337	3625	1	thailandensis	GCF_001718595.1_ASM171859v1
+2	NZ_CP013408.1	Burkholderia thailandensis strain MSMB59 chromosome 2 complete sequence	2822193	2349	2	thailandensis	GCF_001718595.1_ASM171859v1
+2	NZ_CP013357.1	Burkholderia oklahomensis EO147 chromosome 1 complete sequence	4192894	3737	1	oklahomensis	GCF_001522105.2_ASM152210v2
+2	NZ_CP013356.1	Burkholderia oklahomensis EO147 chromosome 2 complete sequence	3126684	2613	2	oklahomensis	GCF_001522105.2_ASM152210v2
+2	NZ_CP012515.1	Burkholderia pseudomallei strain vgh16R chromosome 1 complete sequence	4038504	3917	1	pseudomallei	GCF_001277875.1_ASM127787v1
+2	NZ_CP012516.1	Burkholderia pseudomallei strain vgh16R chromosome 2 complete sequence	3228004	2984	2	pseudomallei	GCF_001277875.1_ASM127787v1
+2	NZ_CP004042.1	Burkholderia pseudomallei MSHR146 chromosome 1 complete sequence	4067985	3920	1	pseudomallei	GCF_000521645.1_ASM52164v1
+2	NZ_CP004043.1	Burkholderia pseudomallei MSHR146 chromosome 2 complete sequence	3245118	3004	2	pseudomallei	GCF_000521645.1_ASM52164v1
+0	NZ_CP013375.1	Burkholderia cepacia strain INT3-BP177 chromosome 1 complete sequence	3728457	3352	1	cepacia	GCF_001718395.1_ASM171839v1
+0	NZ_CP013376.1	Burkholderia cepacia strain INT3-BP177 chromosome 2 complete sequence	3608925	3082	2	cepacia	GCF_001718395.1_ASM171839v1
+2	NZ_CP010973.1	Burkholderia pseudomallei strain vgh07 chromosome 1 complete sequence	4006427	3947	1	pseudomallei	GCF_000954175.1_ASM95417v1
+2	NZ_CP010974.1	Burkholderia pseudomallei strain vgh07 chromosome 2 complete sequence	3039355	2863	2	pseudomallei	GCF_000954175.1_ASM95417v1
+2	NZ_CP040531.1	Burkholderia pseudomallei strain VB3253 chromosome 1 complete sequence	4017865	3737	1	pseudomallei	GCF_005853645.1_ASM585364v1
+2	NZ_CP040532.1	Burkholderia pseudomallei strain VB3253 chromosome 2 complete sequence	3162636	2790	2	pseudomallei	GCF_005853645.1_ASM585364v1
+2	NZ_CP009474.1	Burkholderia pseudomallei MSHR840 chromosome I complete sequence	4021787	3886	1	pseudomallei	GCF_000959185.1_ASM95918v1
+2	NZ_CP009473.1	Burkholderia pseudomallei MSHR840 chromosome II complete sequence	3108026	2864	2	pseudomallei	GCF_000959185.1_ASM95918v1
+3	NC_007510.1	Burkholderia lata chromosome 1 complete sequence	3694126	3337	1	lata	GCF_000012945.1_ASM1294v1
+3	NC_007511.1	Burkholderia lata chromosome 2 complete sequence	3587082	3156	2	lata	GCF_000012945.1_ASM1294v1
+3	NC_007509.1	Burkholderia lata chromosome 3 complete sequence	1395069	1185	3	lata	GCF_000012945.1_ASM1294v1
+2	NZ_CP013378.1	Burkholderia pseudomultivorans strain SUB-INT23-BP2 chromosome 1 complete sequence	4849929	4276	1	pseudomultivorans	GCF_001718415.1_ASM171841v1
+2	NZ_CP013377.1	Burkholderia pseudomultivorans strain SUB-INT23-BP2 chromosome 2 complete sequence	2995708	2579	2	pseudomultivorans	GCF_001718415.1_ASM171841v1
+2	NZ_CP013379.1	Burkholderia pseudomultivorans strain SUB-INT23-BP2 plasmid pINT23 complete sequence	111152	89	p	pseudomultivorans	GCF_001718415.1_ASM171841v1
+2	NZ_CP020390.1	Burkholderia thailandensis strain FDAARGOS_237 chromosome 1 complete sequence	3819771	3481	1	thailandensis	GCF_003020025.1_ASM302002v1
+2	NZ_CP020389.1	Burkholderia thailandensis strain FDAARGOS_237 chromosome 2 complete sequence	2853041	2387	2	thailandensis	GCF_003020025.1_ASM302002v1
+3	NZ_CP029824.1	Burkholderia sp. JP2-270 chromosome 1 complete sequence	3723585	3285	1	sp.	GCF_003233675.1_ASM323367v1
+3	NZ_CP029825.1	Burkholderia sp. JP2-270 chromosome 2 complete sequence	3274969	2848	2	sp.	GCF_003233675.1_ASM323367v1
+3	NZ_CP029826.1	Burkholderia sp. JP2-270 chromosome 3 complete sequence	1483367	1116	3	sp.	GCF_003233675.1_ASM323367v1
+3	NZ_CP029827.1	Burkholderia sp. JP2-270 plasmid p1 complete sequence	15126	12	p	sp.	GCF_003233675.1_ASM323367v1
+3	NZ_CP029828.1	Burkholderia sp. JP2-270 plasmid p2 complete sequence	428263	338	p	sp.	GCF_003233675.1_ASM323367v1
+3	NZ_CP013730.1	Burkholderia cepacia JBK9 chromosome 1 complete sequence	3790084	3474	1	cepacia	GCF_000701165.1_ASM70116v2
+3	NZ_CP013731.1	Burkholderia cepacia JBK9 chromosome 2 complete sequence	3400736	2984	2	cepacia	GCF_000701165.1_ASM70116v2
+3	NZ_CP013732.1	Burkholderia cepacia JBK9 chromosome 3 complete sequence	1290392	1018	3	cepacia	GCF_000701165.1_ASM70116v2
+2	NZ_CP014505.1	Burkholderia sp. PAMC 28687 strain PAMC28687 chromosome 1 complete sequence	3260450	2934	1	sp.	GCF_001577465.1_ASM157746v1
+2	NZ_CP014508.1	Burkholderia sp. PAMC 28687 strain PAMC28687 plasmid 1 complete sequence	286935	239	p	sp.	GCF_001577465.1_ASM157746v1
+2	NZ_CP014506.1	Burkholderia sp. PAMC 28687 strain PAMC28687 chromosome 2 complete sequence	1696029	1470	2	sp.	GCF_001577465.1_ASM157746v1
+2	NZ_CP014509.1	Burkholderia sp. PAMC 28687 strain PAMC28687 plasmid 2 complete sequence	62715	53	p	sp.	GCF_001577465.1_ASM157746v1
+2	NZ_CP014507.1	Burkholderia sp. PAMC 28687 strain PAMC28687 chromosome 3 complete sequence	1495500	1353	3	sp.	GCF_001577465.1_ASM157746v1
+2	NZ_CP014510.1	Burkholderia sp. PAMC 28687 strain PAMC28687 plasmid 3 complete sequence	52585	48	p	sp.	GCF_001577465.1_ASM157746v1
+2	NZ_CP014511.1	Burkholderia sp. PAMC 28687 strain PAMC28687 plasmid 4 complete sequence	20973	22	p	sp.	GCF_001577465.1_ASM157746v1
+2	NZ_CP014512.1	Burkholderia sp. PAMC 28687 strain PAMC28687 plasmid 5 complete sequence	6086	9	p	sp.	GCF_001577465.1_ASM157746v1
+2	NZ_CP033701.1	Burkholderia pseudomallei strain FDAARGOS_594 chromosome 1 complete sequence	3176440	2963	2	pseudomallei	GCF_003798365.1_ASM379836v1
+2	NZ_CP033702.1	Burkholderia pseudomallei strain FDAARGOS_594 chromosome 2 complete sequence	4003948	3946	1	pseudomallei	GCF_003798365.1_ASM379836v1
+2	NC_007651.1	Burkholderia thailandensis E264 chromosome I complete sequence	3809201	3429	1	thailandensis	GCF_000012365.1_ASM1236v1
+2	NC_007650.1	Burkholderia thailandensis E264 chromosome II complete sequence	2914771	2483	2	thailandensis	GCF_000012365.1_ASM1236v1
+2	NZ_CP009735.1	Burkholderia mallei strain Turkey6 chromosome 1 complete sequence	3507358	3447	1	mallei	GCF_002346125.1_ASM234612v1
+2	NZ_CP009736.1	Burkholderia mallei strain Turkey6 chromosome 2 complete sequence	2240464	2173	2	mallei	GCF_002346125.1_ASM234612v1
+3	NZ_CP013430.1	Burkholderia multivorans strain AU1185 chromosome 1 complete sequence	3525707	3287	1	multivorans	GCF_001718755.1_ASM171875v1
+3	NZ_CP013431.1	Burkholderia multivorans strain AU1185 chromosome 2 complete sequence	2533520	2208	2	multivorans	GCF_001718755.1_ASM171875v1
+3	NZ_CP013432.1	Burkholderia multivorans strain AU1185 chromosome 3 complete sequence	561709	494	3	multivorans	GCF_001718755.1_ASM171875v1
+2	NZ_CP009128.1	Burkholderia pseudomallei strain BSR chromosome 1 complete sequence	4058409	3934	1	pseudomallei	GCF_000755825.1_ASM75582v1
+2	NZ_CP009127.1	Burkholderia pseudomallei strain BSR chromosome 2 complete sequence	3214293	2993	2	pseudomallei	GCF_000755825.1_ASM75582v1
+2	NZ_CP004023.1	Burkholderia pseudomallei MSHR511 chromosome 1 complete sequence	4067942	3923	1	pseudomallei	GCF_000520895.1_ASM52089v1
+2	NZ_CP004024.1	Burkholderia pseudomallei MSHR511 chromosome 2 complete sequence	3248143	3000	2	pseudomallei	GCF_000520895.1_ASM52089v1
+2	NZ_CP008755.1	Burkholderia pseudomallei strain 9 chromosome 1 complete sequence	4033039	3976	1	pseudomallei	GCF_003445415.1_ASM344541v1
+2	NZ_CP008754.1	Burkholderia pseudomallei strain 9 chromosome 2 complete sequence	3158067	2973	2	pseudomallei	GCF_003445415.1_ASM344541v1
+2	NZ_CP013457.1	Burkholderia sp. MSMB617WGS chromosome 1 complete sequence	4081657	3618	1	sp.	GCF_001532025.2_ASM153202v2
+2	NZ_CP013458.1	Burkholderia sp. MSMB617WGS chromosome 2 complete sequence	2832141	2421	2	sp.	GCF_001532025.2_ASM153202v2
+3	NZ_CP019674.1	Burkholderia cenocepacia strain VC12308 chromosome 1 complete sequence	3668000	3327	1	cenocepacia	GCF_001999885.1_ASM199988v1
+3	NZ_CP019672.1	Burkholderia cenocepacia strain VC12308 chromosome 2 complete sequence	2984720	2652	2	cenocepacia	GCF_001999885.1_ASM199988v1
+3	NZ_CP019673.1	Burkholderia cenocepacia strain VC12308 chromosome 3 complete sequence	964521	854	3	cenocepacia	GCF_001999885.1_ASM199988v1
+3	NZ_CP019671.1	Burkholderia cenocepacia strain VC12308 plasmid unnamed complete sequence	17257	19	p	cenocepacia	GCF_001999885.1_ASM199988v1

@@ -8,7 +8,7 @@ The project was performed by Kristina Perevoshchikova and Olga Bochkareva
 ## Folder Replicons:
  - ***StrainsTable.txt*** holds strains' IDs and names, chromosomes size, number of CDs
  - ***ChromosomesMapping.csv*** holds origin|terminus positions, replichores lengths, GC content
-  - ***BurkholdeiraStrainsTable.txt*** holds strains' IDs and names, chromosomes size, number of CDs in Burkholderia genus
+  - ***BurkholdeiraStrainsTable.csv*** holds strains' IDs and names, chromosomes size, number of CDs in Burkholderia genus
 
 
 ## Folder Phylogenetics:

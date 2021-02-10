@@ -4,3 +4,14 @@ This is the repository for Vibrio genomics project. The project includes phyloge
 reconstruction of orthologs evolution.
 
 The project was performed by Kristina Perevoshchikova and Olga Bochkareva
+
+Folder Replicons:
+ - 
+
+
+Folder Phylogenetics:
+ - 
+
+
+Folder Orthologs:
+ - 
